@@ -1,0 +1,1031 @@
+Student_ID,Name,Gender,Age,City,Department,Math,Science,English,Attendance,Study_Hours,Average_Marks,Grade,Placement_Status
+STU0001,Kiran,Male,22,Vijayawada,ECE,52.0,48.0,46.0,97.0,7,48.67,D,Placed
+STU0002,Ravi,Male,21,Vijayawada,Civil,38.0,60.0,88.0,74.0,8,62.0,C,Not Placed
+STU0003,Ravi,Male,24,Visakhapatnam,EEE,54.0,62.0,78.0,66.0,2,64.67,C,Not Placed
+STU0004,Kiran,Female,23,Warangal,EEE,40.0,93.0,50.0,84.0,2,61.0,C,Not Placed
+STU0005,Deepika,Female,21,Hyderabad,CSE,64.0,72.0,45.0,74.0,2,60.33,C,Not Placed
+STU0006,Vijay,Female,23,Vijayawada,EEE,80.0,61.0,69.0,64.0,3,70.0,B,Placed
+STU0007,Anu,Female,24,Visakhapatnam,Civil,63.0,76.0,42.0,74.0,1,60.33,C,Not Placed
+STU0008,Ramesh,Female,19,Vijayawada,Civil,75.0,62.0,98.0,85.0,8,78.33,B,Placed
+STU0009,Vijay,Male,21,Warangal,Civil,68.0,89.0,86.0,83.0,4,81.0,B,Placed
+STU0010,Manoj,Female,19,Hyderabad,CSE,54.0,55.0,89.0,,2,66.0,C,Not Placed
+STU0011,Ramesh,Female,22,Warangal,CSE,49.0,69.0,78.0,67.0,5,65.33,C,Not Placed
+STU0012,Anu,Female,18,Visakhapatnam,Civil,57.0,99.0,48.0,100.0,5,68.0,C,Placed
+STU0013,Sneha,Female,20,Warangal,Civil,35.0,76.0,97.0,61.0,2,69.33,C,Not Placed
+STU0014,Pooja,Male,18,Vijayawada,Civil,45.0,45.0,97.0,64.0,3,62.33,C,Placed
+STU0015,Keerthi,Male,22,Warangal,Civil,89.0,62.0,60.0,79.0,7,70.33,B,Not Placed
+STU0016,Nikhil,Female,19,Vijayawada,ECE,43.0,78.0,37.0,97.0,4,52.67,C,Placed
+STU0017,Ravi,Male,18,Vijayawada,CSE,39.0,77.0,,92.0,4,53.33,C,Not Placed
+STU0018,Keerthi,Male,20,Warangal,Civil,95.0,66.0,95.0,,4,85.33,A,Placed
+STU0019,Kiran,Female,23,Guntur,Mechanical,94.0,41.0,47.0,63.0,7,60.67,C,Not Placed
+STU0020,Kiran,Male,21,Vijayawada,Civil,92.0,52.0,89.0,71.0,5,77.67,B,Not Placed
+STU0021,Meena,Male,25,Warangal,CSE,41.0,36.0,46.0,75.0,3,41.0,D,Not Placed
+STU0022,Keerthi,Female,21,Guntur,CSE,56.0,83.0,35.0,84.0,5,58.0,C,Not Placed
+STU0023,Pooja,Female,25,Vijayawada,ECE,72.0,62.0,42.0,97.0,1,58.67,C,Not Placed
+STU0024,Priya,Male,25,Warangal,Civil,55.0,42.0,100.0,65.0,3,65.67,C,Placed
+STU0025,Deepika,Male,21,Guntur,CSE,66.0,40.0,45.0,86.0,6,50.33,C,Not Placed
+STU0026,Rahul,Female,21,Visakhapatnam,Mechanical,51.0,73.0,93.0,80.0,2,72.33,B,Placed
+STU0027,Nikhil,Male,19,Warangal,ECE,99.0,68.0,51.0,82.0,2,72.67,B,Placed
+STU0028,Divya,Female,20,Guntur,Civil,73.0,36.0,73.0,66.0,3,60.67,C,Not Placed
+STU0029,Kiran,Male,20,Visakhapatnam,EEE,61.0,78.0,61.0,100.0,5,66.67,C,Not Placed
+STU0030,Vijay,Male,19,Guntur,EEE,40.0,35.0,77.0,68.0,5,50.67,C,Placed
+STU0031,Nikhil,Female,18,Hyderabad,CSE,54.0,39.0,82.0,97.0,3,58.33,C,Not Placed
+STU0032,Sneha,Male,22,Visakhapatnam,CSE,80.0,61.0,66.0,66.0,6,69.0,C,Not Placed
+STU0033,Deepika,Male,21,Vijayawada,ECE,87.0,38.0,,81.0,7,60.67,C,Placed
+STU0034,Vijay,Male,19,Guntur,CSE,95.0,63.0,60.0,89.0,6,72.67,B,Not Placed
+STU0035,Meena,Male,18,Vijayawada,Mechanical,77.0,70.0,43.0,77.0,6,63.33,C,Not Placed
+STU0036,Teja,Female,18,Hyderabad,EEE,57.0,68.0,39.0,66.0,7,54.67,C,Not Placed
+STU0037,Akhil,Female,19,Guntur,Civil,59.0,67.0,40.0,87.0,1,55.33,C,Placed
+STU0038,Divya,Female,19,Visakhapatnam,Civil,75.0,50.0,,92.0,5,66.0,C,Not Placed
+STU0039,Akhil,Female,22,Warangal,ECE,59.0,88.0,83.0,71.0,5,76.67,B,Not Placed
+STU0040,Teja,Male,22,Visakhapatnam,ECE,90.0,76.0,,88.0,8,86.67,A,Placed
+STU0041,Manoj,Female,20,Hyderabad,EEE,100.0,77.0,46.0,75.0,5,74.33,B,Placed
+STU0042,Rahul,Male,18,Hyderabad,ECE,95.0,44.0,93.0,86.0,4,77.33,B,Not Placed
+STU0043,Keerthi,Female,21,Vijayawada,CSE,48.0,,63.0,71.0,8,66.67,C,Placed
+STU0044,Teja,Male,19,Guntur,ECE,94.0,75.0,91.0,99.0,7,86.67,A,Not Placed
+STU0045,Anu,Female,25,Visakhapatnam,ECE,70.0,97.0,65.0,77.0,8,77.33,B,Placed
+STU0046,Pooja,Male,22,Visakhapatnam,EEE,45.0,,54.0,74.0,7,50.33,C,Placed
+STU0047,Rahul,Male,24,Guntur,EEE,94.0,88.0,42.0,73.0,7,74.67,B,Not Placed
+STU0048,Varun,Male,24,Guntur,CSE,80.0,73.0,84.0,86.0,4,79.0,B,Not Placed
+STU0049,Meena,Female,24,Guntur,CSE,84.0,78.0,86.0,70.0,8,82.67,B,Placed
+STU0050,Deepika,Male,24,Warangal,Civil,38.0,45.0,89.0,68.0,8,57.33,C,Placed
+STU0051,Priya,Female,24,Visakhapatnam,ECE,93.0,76.0,78.0,84.0,5,82.33,B,Not Placed
+STU0052,Vijay,Male,25,Hyderabad,Civil,41.0,79.0,63.0,64.0,1,61.0,C,Placed
+STU0053,Meena,Male,18,Warangal,ECE,65.0,51.0,95.0,67.0,4,70.33,B,Not Placed
+STU0054,Vijay,Female,20,Warangal,Civil,49.0,55.0,74.0,66.0,1,59.33,C,Not Placed
+STU0055,Varun,Female,24,Vijayawada,CSE,66.0,48.0,73.0,98.0,2,62.33,C,Placed
+STU0056,Divya,Female,23,Hyderabad,Civil,78.0,36.0,88.0,91.0,2,67.33,C,Not Placed
+STU0057,Divya,Female,20,Guntur,ECE,69.0,96.0,94.0,87.0,5,86.33,A,Not Placed
+STU0058,Meena,Male,22,Guntur,ECE,94.0,83.0,78.0,61.0,8,85.0,A,Not Placed
+STU0059,Anu,Female,21,Visakhapatnam,EEE,78.0,70.0,70.0,95.0,1,72.67,B,Placed
+STU0060,Arjun,Male,24,Guntur,Civil,65.0,95.0,97.0,88.0,1,85.67,A,Placed
+STU0061,Pooja,Male,24,Vijayawada,EEE,82.0,95.0,79.0,87.0,6,85.33,A,Not Placed
+STU0062,Nikhil,Female,22,Visakhapatnam,ECE,50.0,59.0,,67.0,3,61.33,C,Placed
+STU0063,Rahul,Female,22,Warangal,Civil,71.0,47.0,,78.0,4,59.0,C,Not Placed
+STU0064,Anu,Female,18,Warangal,ECE,70.0,40.0,41.0,95.0,5,50.33,C,Placed
+STU0065,Keerthi,Male,18,Warangal,EEE,95.0,96.0,91.0,81.0,3,94.0,A,Placed
+STU0066,Vijay,Female,19,Hyderabad,Mechanical,97.0,44.0,41.0,69.0,3,60.67,C,Not Placed
+STU0067,Arjun,Male,19,Warangal,Mechanical,276.0,83.0,92.0,88.0,5,79.33,B,Not Placed
+STU0068,Pooja,Male,19,Vijayawada,ECE,68.0,45.0,55.0,75.0,3,56.0,C,Placed
+STU0069,Anu,Male,24,Guntur,Civil,95.0,72.0,39.0,74.0,5,68.67,C,Not Placed
+STU0070,Nikhil,Male,21,Visakhapatnam,Civil,60.0,89.0,49.0,94.0,4,66.0,C,Placed
+STU0071,Vijay,Male,19,Hyderabad,ECE,74.0,71.0,91.0,67.0,8,78.67,B,Not Placed
+STU0072,Ramesh,Female,25,Guntur,CSE,40.0,90.0,76.0,98.0,5,68.67,C,Placed
+STU0073,Arjun,Male,18,Visakhapatnam,Civil,40.0,57.0,95.0,93.0,8,64.0,C,Not Placed
+STU0074,Anu,Female,25,Hyderabad,Mechanical,79.0,87.0,77.0,,2,81.0,B,Placed
+STU0075,Akhil,Female,25,Visakhapatnam,Mechanical,39.0,93.0,46.0,80.0,5,59.33,C,Not Placed
+STU0076,Kiran,Female,18,Warangal,Mechanical,87.0,41.0,59.0,93.0,6,62.33,C,Not Placed
+STU0077,Nikhil,Male,21,Visakhapatnam,Civil,51.0,71.0,91.0,91.0,2,71.0,B,Placed
+STU0078,Deepika,Male,20,Visakhapatnam,Civil,36.0,87.0,46.0,74.0,2,56.33,C,Not Placed
+STU0079,Kiran,Male,25,Visakhapatnam,Civil,69.0,88.0,96.0,90.0,4,84.33,B,Not Placed
+STU0080,Teja,Male,24,Vijayawada,Civil,100.0,52.0,43.0,,7,65.0,C,Not Placed
+STU0081,Manoj,Female,18,Visakhapatnam,EEE,97.0,54.0,92.0,94.0,8,81.0,B,Not Placed
+STU0082,Akhil,Female,25,Visakhapatnam,ECE,65.0,84.0,64.0,86.0,1,71.0,B,Not Placed
+STU0083,Keerthi,Female,24,Vijayawada,Mechanical,39.0,51.0,99.0,97.0,6,63.0,C,Placed
+STU0084,Nikhil,Male,25,Hyderabad,ECE,87.0,54.0,44.0,90.0,5,61.67,C,Not Placed
+STU0085,Deepika,Female,19,Visakhapatnam,Civil,83.0,75.0,97.0,94.0,1,85.0,A,Placed
+STU0086,Meena,Female,21,Hyderabad,Mechanical,47.0,47.0,91.0,70.0,5,61.67,C,Placed
+STU0087,Priya,Female,18,Visakhapatnam,EEE,82.0,90.0,53.0,75.0,7,75.0,B,Placed
+STU0088,Anu,Male,19,Warangal,Mechanical,65.0,,53.0,74.0,8,72.0,B,Not Placed
+STU0089,Nikhil,Female,18,Guntur,EEE,55.0,44.0,91.0,82.0,5,63.33,C,Not Placed
+STU0090,Vijay,Female,22,Vijayawada,Mechanical,96.0,48.0,65.0,84.0,6,69.67,C,Not Placed
+STU0091,Pooja,Male,24,Visakhapatnam,CSE,41.0,98.0,71.0,74.0,6,70.0,B,Placed
+STU0092,Rahul,Female,20,Hyderabad,CSE,348.0,91.0,39.0,97.0,6,68.0,C,Placed
+STU0093,Arjun,Female,23,Guntur,ECE,60.0,51.0,81.0,93.0,5,64.0,C,Placed
+STU0094,Vijay,Female,22,Visakhapatnam,CSE,94.0,44.0,53.0,74.0,7,63.67,C,Not Placed
+STU0095,Arjun,Female,18,Visakhapatnam,Civil,50.0,93.0,82.0,76.0,7,75.0,B,Not Placed
+STU0096,Kiran,Male,25,Hyderabad,Civil,76.0,63.0,43.0,100.0,8,60.67,C,Not Placed
+STU0097,Suresh,Male,20,Hyderabad,CSE,73.0,98.0,49.0,66.0,4,73.33,B,Placed
+STU0098,Ramesh,Female,23,Warangal,Mechanical,54.0,88.0,47.0,91.0,7,63.0,C,Not Placed
+STU0099,Priya,Female,21,Guntur,Mechanical,65.0,81.0,47.0,83.0,6,64.33,C,Placed
+STU0100,Ramesh,Female,21,Hyderabad,Mechanical,46.0,62.0,37.0,63.0,6,48.33,D,Placed
+STU0101,Sneha,Male,19,Warangal,ECE,62.0,64.0,77.0,69.0,1,67.67,C,Not Placed
+STU0102,Sneha,Male,22,Vijayawada,CSE,38.0,51.0,36.0,82.0,4,41.67,D,Not Placed
+STU0103,Ravi,Male,22,Hyderabad,ECE,88.0,49.0,43.0,90.0,8,60.0,C,Not Placed
+STU0104,Manoj,Male,25,Warangal,ECE,40.0,73.0,93.0,61.0,1,68.67,C,Not Placed
+STU0105,Ramesh,Female,19,Guntur,Mechanical,44.0,45.0,76.0,98.0,3,55.0,C,Placed
+STU0106,Sneha,Female,23,Guntur,Civil,441.0,93.0,99.0,98.0,7,88.0,A,Placed
+STU0107,Kiran,Male,24,Guntur,ECE,87.0,78.0,93.0,85.0,7,86.0,A,Placed
+STU0108,Akhil,Female,23,Visakhapatnam,EEE,54.0,95.0,43.0,65.0,2,64.0,C,Placed
+STU0109,Suresh,Male,23,Vijayawada,Civil,42.0,77.0,50.0,86.0,6,56.33,C,Not Placed
+STU0110,Priya,Female,22,Visakhapatnam,CSE,99.0,62.0,54.0,90.0,4,71.67,B,Placed
+STU0111,Divya,Female,19,Visakhapatnam,Civil,63.0,89.0,38.0,98.0,5,63.33,C,Placed
+STU0112,Anu,Female,22,Visakhapatnam,EEE,35.0,58.0,53.0,96.0,7,48.67,D,Placed
+STU0113,Sneha,Male,19,Warangal,ECE,83.0,88.0,93.0,81.0,3,88.0,A,Not Placed
+STU0114,Pooja,Female,19,Hyderabad,ECE,55.0,41.0,45.0,77.0,8,47.0,D,Not Placed
+STU0115,Keerthi,Female,24,Visakhapatnam,ECE,100.0,49.0,79.0,87.0,2,76.0,B,Not Placed
+STU0116,Varun,Female,22,Hyderabad,ECE,,42.0,35.0,73.0,5,54.0,C,Placed
+STU0117,Sneha,Female,22,Visakhapatnam,CSE,35.0,98.0,90.0,71.0,3,74.33,B,Not Placed
+STU0118,Teja,Male,23,Hyderabad,Mechanical,40.0,90.0,37.0,89.0,2,55.67,C,Not Placed
+STU0119,Varun,Female,24,Guntur,EEE,49.0,86.0,37.0,80.0,3,57.33,C,Not Placed
+STU0120,Divya,Male,24,Hyderabad,ECE,90.0,86.0,45.0,85.0,5,73.67,B,Not Placed
+STU0121,Meena,Female,20,Hyderabad,Civil,49.0,100.0,59.0,82.0,6,69.33,C,Placed
+STU0122,Meena,Male,20,Visakhapatnam,ECE,57.0,54.0,44.0,71.0,8,51.67,C,Not Placed
+STU0123,Varun,Female,23,Visakhapatnam,ECE,91.0,43.0,95.0,88.0,5,76.33,B,Not Placed
+STU0124,Varun,Male,23,Warangal,CSE,74.0,94.0,92.0,62.0,1,86.67,A,Not Placed
+STU0125,Pooja,Male,19,Warangal,Civil,99.0,84.0,94.0,97.0,1,92.33,A,Not Placed
+STU0126,Varun,Male,23,Warangal,Mechanical,99.0,54.0,42.0,88.0,2,65.0,C,Not Placed
+STU0127,Arjun,Male,18,Vijayawada,Mechanical,91.0,55.0,81.0,83.0,5,75.67,B,Not Placed
+STU0128,Suresh,Female,18,Visakhapatnam,CSE,77.0,47.0,,78.0,5,69.33,C,Placed
+STU0129,Akhil,Male,20,Visakhapatnam,EEE,85.0,51.0,45.0,79.0,7,60.33,C,Not Placed
+STU0130,Sneha,Male,24,Warangal,EEE,37.0,81.0,74.0,71.0,4,64.0,C,Not Placed
+STU0131,Keerthi,Male,21,Vijayawada,ECE,44.0,,47.0,92.0,1,54.33,C,Not Placed
+STU0132,Deepika,Male,24,Vijayawada,ECE,58.0,56.0,91.0,62.0,7,68.33,C,Not Placed
+STU0133,Meena,Female,22,Guntur,ECE,65.0,74.0,95.0,72.0,6,78.0,B,Not Placed
+STU0134,Nikhil,Female,24,Warangal,Civil,88.0,55.0,60.0,98.0,3,67.67,C,Not Placed
+STU0135,Priya,Female,23,Warangal,CSE,50.0,71.0,45.0,70.0,5,55.33,C,Not Placed
+STU0136,Manoj,Male,24,Hyderabad,ECE,,79.0,38.0,86.0,1,69.67,C,Not Placed
+STU0137,Manoj,Female,21,Guntur,CSE,82.0,63.0,38.0,80.0,2,61.0,C,Not Placed
+STU0138,Sneha,Male,18,Visakhapatnam,Mechanical,52.0,95.0,92.0,99.0,1,79.67,B,Placed
+STU0139,Ravi,Female,21,Vijayawada,Civil,89.0,49.0,71.0,75.0,5,69.67,C,Placed
+STU0140,Priya,Male,24,Warangal,Mechanical,43.0,49.0,98.0,98.0,1,63.33,C,Placed
+STU0141,Sneha,Female,24,Hyderabad,Civil,80.0,65.0,88.0,71.0,2,77.67,B,Not Placed
+STU0142,Arjun,Male,24,Guntur,CSE,84.0,82.0,67.0,61.0,6,77.67,B,Placed
+STU0143,Divya,Male,19,Warangal,EEE,52.0,40.0,80.0,94.0,6,57.33,C,Placed
+STU0144,Nikhil,Female,20,Vijayawada,CSE,93.0,39.0,72.0,72.0,1,68.0,C,Placed
+STU0145,Priya,Female,22,Warangal,Mechanical,95.0,67.0,39.0,72.0,5,67.0,C,Not Placed
+STU0146,Priya,Female,22,Hyderabad,EEE,90.0,86.0,91.0,84.0,6,89.0,A,Placed
+STU0147,Keerthi,Female,23,Warangal,EEE,,89.0,45.0,87.0,3,59.67,C,Not Placed
+STU0148,Akhil,Male,19,Visakhapatnam,EEE,74.0,92.0,89.0,70.0,8,85.0,A,Not Placed
+STU0149,Nikhil,Male,23,Warangal,Mechanical,70.0,42.0,44.0,100.0,7,52.0,C,Not Placed
+STU0150,Manoj,Male,18,Vijayawada,Civil,91.0,39.0,51.0,64.0,4,60.33,C,Not Placed
+STU0151,Divya,Female,18,Warangal,ECE,,82.0,82.0,88.0,2,85.33,A,Placed
+STU0152,Manoj,Female,24,Visakhapatnam,EEE,66.0,49.0,38.0,71.0,8,51.0,C,Not Placed
+STU0153,Teja,Male,22,Visakhapatnam,Mechanical,62.0,71.0,97.0,72.0,2,76.67,B,Placed
+STU0154,Arjun,Female,20,Guntur,CSE,75.0,79.0,43.0,95.0,5,65.67,C,Not Placed
+STU0155,Anu,Male,23,Warangal,ECE,50.0,60.0,52.0,75.0,8,54.0,C,Placed
+STU0156,Divya,Female,25,Warangal,ECE,46.0,43.0,74.0,85.0,8,54.33,C,Not Placed
+STU0157,Suresh,Male,20,Visakhapatnam,CSE,92.0,94.0,79.0,68.0,3,88.33,A,Placed
+STU0158,Suresh,Male,19,Warangal,ECE,73.0,56.0,55.0,80.0,4,61.33,C,Not Placed
+STU0159,Manoj,Female,19,Visakhapatnam,ECE,314.0,51.0,73.0,99.0,2,64.67,C,Placed
+STU0160,Varun,Male,20,Warangal,Civil,78.0,40.0,38.0,65.0,1,52.0,C,Not Placed
+STU0161,Rahul,Female,18,Guntur,Civil,72.0,73.0,96.0,75.0,7,80.33,B,Not Placed
+STU0162,Nikhil,Male,18,Vijayawada,Mechanical,88.0,96.0,94.0,73.0,6,92.67,A,Placed
+STU0163,Akhil,Female,23,Guntur,ECE,82.0,100.0,48.0,80.0,4,76.67,B,Not Placed
+STU0164,Kiran,Female,25,Vijayawada,ECE,47.0,41.0,72.0,84.0,7,53.33,C,Placed
+STU0165,Anu,Female,23,Vijayawada,ECE,98.0,100.0,94.0,91.0,5,97.33,A,Not Placed
+STU0166,Ravi,Male,24,Warangal,Mechanical,65.0,62.0,80.0,63.0,1,69.0,C,Not Placed
+STU0167,Keerthi,Female,22,Warangal,CSE,48.0,90.0,52.0,,6,63.33,C,Not Placed
+STU0168,Divya,Male,24,Hyderabad,Civil,59.0,81.0,71.0,64.0,7,70.33,B,Not Placed
+STU0169,Teja,Female,19,Vijayawada,CSE,85.0,82.0,78.0,95.0,6,81.67,B,Placed
+STU0170,Rahul,Female,18,Hyderabad,CSE,52.0,77.0,95.0,93.0,8,74.67,B,Placed
+STU0171,Deepika,Male,23,Warangal,EEE,55.0,85.0,73.0,97.0,6,71.0,B,Not Placed
+STU0172,Varun,Female,25,Hyderabad,EEE,77.0,49.0,88.0,97.0,5,71.33,B,Placed
+STU0173,Deepika,Female,22,Warangal,Civil,64.0,41.0,96.0,70.0,7,67.0,C,Placed
+STU0174,Meena,Male,19,Vijayawada,CSE,91.0,75.0,88.0,69.0,7,84.67,B,Placed
+STU0175,Suresh,Female,18,Vijayawada,Civil,61.0,76.0,96.0,93.0,7,77.67,B,Not Placed
+STU0176,Anu,Female,23,Warangal,EEE,68.0,96.0,59.0,75.0,5,74.33,B,Not Placed
+STU0177,Meena,Female,22,Vijayawada,Mechanical,75.0,96.0,79.0,95.0,5,83.33,B,Not Placed
+STU0178,Kiran,Female,24,Visakhapatnam,ECE,72.0,40.0,71.0,65.0,6,61.0,C,Not Placed
+STU0179,Vijay,Female,21,Vijayawada,Civil,69.0,69.0,52.0,66.0,4,63.33,C,Placed
+STU0180,Priya,Male,21,Hyderabad,CSE,87.0,77.0,95.0,66.0,3,86.33,A,Placed
+STU0181,Teja,Male,24,Guntur,Mechanical,60.0,71.0,76.0,78.0,1,69.0,C,Placed
+STU0182,Varun,Male,18,Vijayawada,Mechanical,57.0,39.0,85.0,91.0,3,60.33,C,Not Placed
+STU0183,Priya,Male,22,Warangal,Civil,48.0,77.0,71.0,89.0,8,65.33,C,Placed
+STU0184,Manoj,Female,22,Vijayawada,CSE,77.0,55.0,93.0,76.0,3,75.0,B,Placed
+STU0185,Akhil,Female,21,Vijayawada,Civil,86.0,89.0,100.0,80.0,2,91.67,A,Not Placed
+STU0186,Kiran,Male,20,Guntur,EEE,66.0,35.0,68.0,84.0,4,56.33,C,Not Placed
+STU0187,Vijay,Female,22,Warangal,Civil,36.0,68.0,81.0,75.0,1,61.67,C,Placed
+STU0188,Nikhil,Female,20,Guntur,Civil,74.0,50.0,72.0,83.0,4,65.33,C,Placed
+STU0189,Sneha,Female,20,Guntur,Civil,82.0,88.0,95.0,,4,88.33,A,Placed
+STU0190,Deepika,Male,25,Warangal,EEE,44.0,49.0,42.0,95.0,4,45.0,D,Placed
+STU0191,Anu,Female,25,Hyderabad,ECE,97.0,46.0,100.0,88.0,1,81.0,B,Not Placed
+STU0192,Sneha,Female,25,Warangal,CSE,94.0,74.0,37.0,85.0,5,68.33,C,Placed
+STU0193,Rahul,Male,18,Guntur,EEE,43.0,42.0,43.0,90.0,1,42.67,D,Not Placed
+STU0194,Suresh,Male,20,Guntur,EEE,83.0,92.0,83.0,84.0,2,86.0,A,Placed
+STU0195,Divya,Male,20,Warangal,Mechanical,51.0,63.0,35.0,61.0,5,49.67,D,Not Placed
+STU0196,Teja,Female,24,Vijayawada,ECE,93.0,79.0,54.0,77.0,4,75.33,B,Placed
+STU0197,Priya,Female,18,Vijayawada,ECE,43.0,47.0,39.0,88.0,1,43.0,D,Placed
+STU0198,Priya,Female,25,Vijayawada,Civil,62.0,42.0,52.0,92.0,5,52.0,C,Placed
+STU0199,Varun,Female,23,Vijayawada,EEE,53.0,63.0,87.0,79.0,5,67.67,C,Placed
+STU0200,Teja,Male,24,Warangal,Mechanical,41.0,79.0,83.0,93.0,6,67.67,C,Not Placed
+STU0201,Suresh,Male,22,Guntur,ECE,95.0,65.0,63.0,79.0,3,74.33,B,Not Placed
+STU0202,Priya,Female,24,Warangal,Civil,52.0,84.0,66.0,76.0,4,67.33,C,Not Placed
+STU0203,Arjun,Female,23,Hyderabad,Civil,59.0,41.0,69.0,84.0,1,56.33,C,Placed
+STU0204,Rahul,Male,25,Vijayawada,EEE,73.0,36.0,62.0,72.0,2,57.0,C,Not Placed
+STU0205,Meena,Male,24,Vijayawada,Civil,76.0,71.0,83.0,89.0,6,76.67,B,Not Placed
+STU0206,Vijay,Female,25,Guntur,CSE,95.0,75.0,61.0,83.0,6,77.0,B,Not Placed
+STU0207,Priya,Male,20,Hyderabad,EEE,88.0,72.0,54.0,72.0,6,71.33,B,Placed
+STU0208,Ramesh,Male,25,Warangal,EEE,67.0,97.0,97.0,89.0,3,87.0,A,Not Placed
+STU0209,Anu,Male,25,Vijayawada,Civil,42.0,39.0,44.0,63.0,1,41.67,D,Not Placed
+STU0210,Sneha,Male,19,Vijayawada,CSE,62.0,99.0,93.0,83.0,1,84.67,B,Not Placed
+STU0211,Keerthi,Male,18,Warangal,Civil,87.0,36.0,37.0,,5,53.33,C,Not Placed
+STU0212,Ravi,Female,20,Hyderabad,CSE,54.0,65.0,59.0,99.0,5,59.33,C,Not Placed
+STU0213,Vijay,Female,19,Visakhapatnam,Mechanical,93.0,66.0,63.0,79.0,2,74.0,B,Placed
+STU0214,Arjun,Female,24,Guntur,Civil,95.0,42.0,36.0,70.0,2,57.67,C,Not Placed
+STU0215,Suresh,Female,19,Warangal,CSE,64.0,62.0,95.0,77.0,1,73.67,B,Placed
+STU0216,Vijay,Male,20,Visakhapatnam,CSE,61.0,53.0,85.0,64.0,5,66.33,C,Placed
+STU0217,Varun,Male,24,Warangal,EEE,84.0,52.0,45.0,92.0,6,60.33,C,Placed
+STU0218,Kiran,Female,21,Hyderabad,EEE,308.0,76.0,38.0,100.0,5,66.33,C,Not Placed
+STU0219,Keerthi,Male,23,Warangal,Mechanical,90.0,58.0,83.0,65.0,5,77.0,B,Placed
+STU0220,Arjun,Male,22,Vijayawada,Mechanical,54.0,84.0,75.0,83.0,2,71.0,B,Placed
+STU0221,Ravi,Female,25,Visakhapatnam,EEE,48.0,51.0,46.0,71.0,7,48.33,D,Not Placed
+STU0222,Teja,Female,19,Hyderabad,CSE,80.0,46.0,76.0,84.0,1,67.33,C,Not Placed
+STU0223,Suresh,Female,19,Warangal,ECE,56.0,83.0,56.0,68.0,5,65.0,C,Not Placed
+STU0224,Vijay,Female,20,Hyderabad,ECE,90.0,70.0,88.0,79.0,8,82.67,B,Placed
+STU0225,Divya,Female,21,Guntur,Civil,60.0,93.0,48.0,68.0,5,67.0,C,Placed
+STU0226,Ramesh,Female,24,Visakhapatnam,Mechanical,77.0,90.0,52.0,79.0,6,73.0,B,Placed
+STU0227,Keerthi,Female,20,Guntur,EEE,72.0,97.0,66.0,80.0,7,78.33,B,Not Placed
+STU0228,Ramesh,Female,19,Warangal,ECE,58.0,38.0,94.0,73.0,8,63.33,C,Not Placed
+STU0229,Arjun,Female,25,Vijayawada,EEE,65.0,67.0,54.0,87.0,7,62.0,C,Placed
+STU0230,Nikhil,Female,24,Warangal,Civil,88.0,39.0,81.0,94.0,2,69.33,C,Placed
+STU0231,Meena,Female,20,Warangal,CSE,86.0,77.0,90.0,66.0,1,84.33,B,Placed
+STU0232,Vijay,Male,21,Guntur,EEE,85.0,94.0,99.0,69.0,6,92.67,A,Placed
+STU0233,Keerthi,Male,22,Guntur,CSE,49.0,53.0,79.0,79.0,6,60.33,C,Not Placed
+STU0234,Rahul,Female,23,Guntur,CSE,91.0,92.0,75.0,64.0,5,86.0,A,Placed
+STU0235,Kiran,Male,23,Hyderabad,ECE,66.0,57.0,55.0,81.0,7,59.33,C,Not Placed
+STU0236,Meena,Female,20,Vijayawada,Mechanical,85.0,38.0,60.0,88.0,7,61.0,C,Not Placed
+STU0237,Ravi,Male,21,Visakhapatnam,CSE,48.0,58.0,81.0,80.0,4,62.33,C,Not Placed
+STU0238,Kiran,Female,25,Warangal,EEE,84.0,85.0,49.0,82.0,6,72.67,B,Not Placed
+STU0239,Deepika,Male,22,Warangal,Civil,,52.0,75.0,67.0,4,57.33,C,Not Placed
+STU0240,Kiran,Male,23,Vijayawada,Civil,84.0,88.0,52.0,96.0,7,74.67,B,Not Placed
+STU0241,Anu,Female,20,Warangal,ECE,97.0,71.0,52.0,71.0,6,73.33,B,Not Placed
+STU0242,Deepika,Male,23,Hyderabad,Mechanical,52.0,59.0,84.0,95.0,8,65.0,C,Not Placed
+STU0243,Keerthi,Female,25,Guntur,ECE,45.0,,63.0,78.0,1,48.67,D,Not Placed
+STU0244,Meena,Female,20,Guntur,Civil,98.0,100.0,49.0,96.0,2,82.33,B,Not Placed
+STU0245,Teja,Female,18,Guntur,Civil,62.0,89.0,48.0,75.0,5,66.33,C,Placed
+STU0246,Nikhil,Female,23,Hyderabad,Mechanical,50.0,65.0,61.0,97.0,6,58.67,C,Not Placed
+STU0247,Anu,Male,21,Vijayawada,CSE,79.0,70.0,56.0,80.0,5,68.33,C,Not Placed
+STU0248,Varun,Female,19,Vijayawada,Mechanical,42.0,70.0,51.0,68.0,4,54.33,C,Placed
+STU0249,Akhil,Male,24,Guntur,ECE,470.0,88.0,83.0,88.0,2,80.0,B,Placed
+STU0250,Ramesh,Female,23,Guntur,Mechanical,76.0,35.0,46.0,89.0,6,52.33,C,Placed
+STU0251,Teja,Female,21,Guntur,ECE,98.0,69.0,76.0,78.0,6,81.0,B,Placed
+STU0252,Varun,Female,23,Hyderabad,CSE,47.0,93.0,37.0,67.0,3,59.0,C,Not Placed
+STU0253,Nikhil,Male,24,Vijayawada,ECE,73.0,55.0,70.0,65.0,6,66.0,C,Not Placed
+STU0254,Arjun,Female,20,Hyderabad,Mechanical,74.0,64.0,89.0,65.0,2,75.67,B,Placed
+STU0255,Rahul,Female,19,Vijayawada,Civil,63.0,91.0,36.0,60.0,6,63.33,C,Placed
+STU0256,Suresh,Male,25,Hyderabad,ECE,84.0,46.0,48.0,66.0,6,59.33,C,Not Placed
+STU0257,Pooja,Male,24,Vijayawada,ECE,43.0,36.0,56.0,88.0,6,45.0,D,Placed
+STU0258,Sneha,Female,25,Vijayawada,CSE,47.0,52.0,50.0,97.0,7,49.67,D,Not Placed
+STU0259,Suresh,Female,20,Vijayawada,EEE,45.0,66.0,71.0,61.0,5,60.67,C,Placed
+STU0260,Manoj,Male,24,Visakhapatnam,CSE,65.0,98.0,84.0,67.0,4,82.33,B,Not Placed
+STU0261,Deepika,Male,18,Visakhapatnam,EEE,51.0,84.0,88.0,83.0,3,74.33,B,Not Placed
+STU0262,Arjun,Male,19,Hyderabad,EEE,62.0,40.0,42.0,85.0,5,48.0,D,Not Placed
+STU0263,Suresh,Female,19,Warangal,Civil,54.0,70.0,45.0,79.0,2,56.33,C,Placed
+STU0264,Sneha,Female,24,Warangal,CSE,74.0,90.0,65.0,63.0,4,76.33,B,Placed
+STU0265,Suresh,Male,25,Warangal,Civil,42.0,74.0,,67.0,1,57.67,C,Placed
+STU0266,Ravi,Male,25,Visakhapatnam,Civil,68.0,56.0,82.0,,5,68.67,C,Placed
+STU0267,Ravi,Female,24,Visakhapatnam,Civil,43.0,68.0,44.0,91.0,8,51.67,C,Not Placed
+STU0268,Priya,Female,20,Visakhapatnam,ECE,67.0,48.0,49.0,74.0,1,54.67,C,Placed
+STU0269,Ravi,Male,18,Guntur,EEE,84.0,54.0,57.0,62.0,7,65.0,C,Placed
+STU0270,Akhil,Male,24,Visakhapatnam,EEE,44.0,82.0,50.0,92.0,1,58.67,C,Placed
+STU0271,Meena,Male,24,Hyderabad,Mechanical,71.0,74.0,76.0,65.0,8,73.67,B,Placed
+STU0272,Divya,Male,22,Warangal,EEE,66.0,94.0,82.0,97.0,8,80.67,B,Placed
+STU0273,Teja,Male,20,Hyderabad,Mechanical,38.0,64.0,79.0,100.0,1,60.33,C,Not Placed
+STU0274,Ravi,Female,22,Hyderabad,ECE,65.0,88.0,97.0,63.0,3,83.33,B,Not Placed
+STU0275,Arjun,Male,21,Warangal,Mechanical,82.0,93.0,45.0,97.0,2,73.33,B,Placed
+STU0276,Ramesh,Male,18,Guntur,ECE,65.0,72.0,68.0,80.0,7,68.33,C,Not Placed
+STU0277,Akhil,Female,22,Vijayawada,CSE,60.0,52.0,48.0,69.0,2,53.33,C,Placed
+STU0278,Nikhil,Female,23,Guntur,CSE,80.0,61.0,92.0,79.0,8,77.67,B,Not Placed
+STU0279,Kiran,Male,20,Visakhapatnam,Civil,40.0,62.0,76.0,69.0,2,59.33,C,Placed
+STU0280,Divya,Female,18,Visakhapatnam,EEE,57.0,38.0,86.0,88.0,4,60.33,C,Placed
+STU0281,Nikhil,Male,20,Hyderabad,CSE,42.0,63.0,51.0,72.0,7,52.0,C,Not Placed
+STU0282,Arjun,Female,19,Hyderabad,CSE,60.0,91.0,51.0,65.0,6,67.33,C,Placed
+STU0283,Priya,Female,18,Vijayawada,Civil,90.0,85.0,98.0,61.0,7,91.0,A,Not Placed
+STU0284,Anu,Female,21,Vijayawada,EEE,70.0,92.0,,62.0,4,72.0,B,Not Placed
+STU0285,Keerthi,Female,25,Hyderabad,CSE,70.0,84.0,52.0,,4,68.67,C,Placed
+STU0286,Teja,Male,24,Visakhapatnam,Mechanical,97.0,79.0,99.0,80.0,7,91.67,A,Not Placed
+STU0287,Anu,Male,23,Warangal,ECE,38.0,70.0,42.0,90.0,6,50.0,C,Placed
+STU0288,Anu,Male,21,Vijayawada,EEE,42.0,63.0,,82.0,3,63.0,C,Placed
+STU0289,Meena,Female,23,Warangal,CSE,80.0,53.0,59.0,91.0,5,64.0,C,Placed
+STU0290,Keerthi,Male,19,Hyderabad,ECE,63.0,37.0,96.0,60.0,6,65.33,C,Placed
+STU0291,Sneha,Female,20,Visakhapatnam,CSE,37.0,53.0,53.0,67.0,6,47.67,D,Placed
+STU0292,Divya,Female,19,Visakhapatnam,EEE,76.0,52.0,55.0,87.0,8,61.0,C,Not Placed
+STU0293,Anu,Female,21,Warangal,ECE,83.0,74.0,72.0,68.0,3,76.33,B,Placed
+STU0294,Varun,Female,18,Vijayawada,Civil,75.0,63.0,48.0,91.0,3,62.0,C,Not Placed
+STU0295,Arjun,Male,23,Visakhapatnam,ECE,46.0,77.0,92.0,60.0,5,71.67,B,Placed
+STU0296,Meena,Male,23,Visakhapatnam,CSE,35.0,41.0,84.0,88.0,7,53.33,C,Placed
+STU0297,Suresh,Female,24,Visakhapatnam,Civil,83.0,47.0,96.0,96.0,4,75.33,B,Placed
+STU0298,Nikhil,Male,18,Visakhapatnam,CSE,75.0,68.0,48.0,64.0,6,63.67,C,Placed
+STU0299,Ramesh,Male,19,Warangal,CSE,78.0,96.0,38.0,87.0,3,70.67,B,Not Placed
+STU0300,Anu,Male,19,Visakhapatnam,ECE,59.0,87.0,68.0,78.0,5,71.33,B,Placed
+STU0301,Kiran,Male,24,Warangal,Civil,97.0,54.0,41.0,83.0,1,64.0,C,Not Placed
+STU0302,Arjun,Female,25,Vijayawada,CSE,38.0,61.0,56.0,100.0,5,51.67,C,Placed
+STU0303,Keerthi,Male,22,Guntur,Mechanical,97.0,68.0,46.0,94.0,7,70.33,B,Placed
+STU0304,Divya,Female,23,Vijayawada,Mechanical,40.0,68.0,91.0,89.0,5,66.33,C,Placed
+STU0305,Vijay,Male,20,Hyderabad,CSE,79.0,87.0,64.0,95.0,1,76.67,B,Not Placed
+STU0306,Manoj,Female,25,Warangal,ECE,95.0,73.0,45.0,85.0,1,71.0,B,Placed
+STU0307,Kiran,Female,20,Vijayawada,ECE,59.0,51.0,40.0,87.0,2,50.0,C,Not Placed
+STU0308,Rahul,Male,22,Visakhapatnam,CSE,213.0,84.0,85.0,95.0,6,71.67,B,Not Placed
+STU0309,Manoj,Female,18,Warangal,Civil,88.0,49.0,88.0,69.0,3,75.0,B,Placed
+STU0310,Kiran,Male,22,Warangal,EEE,87.0,68.0,84.0,91.0,8,79.67,B,Placed
+STU0311,Anu,Female,24,Vijayawada,Civil,86.0,39.0,85.0,81.0,4,70.0,B,Placed
+STU0312,Keerthi,Female,23,Hyderabad,EEE,73.0,74.0,70.0,91.0,2,72.33,B,Placed
+STU0313,Sneha,Female,25,Visakhapatnam,EEE,88.0,46.0,59.0,88.0,4,64.33,C,Not Placed
+STU0314,Keerthi,Female,18,Warangal,ECE,43.0,74.0,99.0,85.0,3,72.0,B,Placed
+STU0315,Anu,Male,21,Hyderabad,ECE,39.0,93.0,41.0,83.0,4,57.67,C,Not Placed
+STU0316,Divya,Female,24,Hyderabad,CSE,65.0,82.0,97.0,98.0,8,81.33,B,Placed
+STU0317,Keerthi,Female,23,Vijayawada,EEE,46.0,71.0,38.0,84.0,1,51.67,C,Placed
+STU0318,Varun,Male,21,Vijayawada,ECE,69.0,87.0,100.0,61.0,1,85.33,A,Not Placed
+STU0319,Sneha,Male,18,Vijayawada,EEE,74.0,70.0,89.0,84.0,6,77.67,B,Not Placed
+STU0320,Vijay,Male,25,Visakhapatnam,Civil,85.0,48.0,35.0,92.0,6,56.0,C,Not Placed
+STU0321,Pooja,Male,25,Hyderabad,EEE,70.0,76.0,70.0,76.0,5,72.0,B,Placed
+STU0322,Sneha,Male,18,Warangal,Mechanical,75.0,52.0,38.0,91.0,5,55.0,C,Not Placed
+STU0323,Suresh,Female,24,Hyderabad,Civil,59.0,78.0,63.0,94.0,8,66.67,C,Not Placed
+STU0324,Manoj,Female,20,Warangal,ECE,72.0,47.0,95.0,68.0,5,71.33,B,Placed
+STU0325,Akhil,Male,21,Visakhapatnam,ECE,74.0,88.0,77.0,83.0,5,79.67,B,Not Placed
+STU0326,Nikhil,Male,25,Hyderabad,Civil,44.0,95.0,59.0,92.0,2,66.0,C,Not Placed
+STU0327,Manoj,Female,24,Hyderabad,ECE,52.0,60.0,78.0,86.0,8,63.33,C,Placed
+STU0328,Akhil,Male,19,Guntur,EEE,57.0,75.0,42.0,60.0,8,58.0,C,Not Placed
+STU0329,Rahul,Male,20,Guntur,CSE,388.0,90.0,89.0,85.0,7,76.67,B,Not Placed
+STU0330,Ramesh,Male,18,Warangal,ECE,82.0,36.0,76.0,93.0,4,64.67,C,Placed
+STU0331,Ravi,Male,21,Visakhapatnam,EEE,51.0,48.0,84.0,92.0,5,61.0,C,Placed
+STU0332,Arjun,Male,22,Visakhapatnam,Mechanical,78.0,90.0,52.0,81.0,8,73.33,B,Not Placed
+STU0333,Rahul,Male,24,Hyderabad,ECE,63.0,51.0,62.0,61.0,3,58.67,C,Placed
+STU0334,Divya,Male,24,Visakhapatnam,Civil,41.0,41.0,,61.0,1,43.33,D,Placed
+STU0335,Suresh,Female,24,Hyderabad,Civil,67.0,95.0,,73.0,1,72.0,B,Not Placed
+STU0336,Suresh,Male,22,Warangal,Civil,52.0,88.0,48.0,92.0,2,62.67,C,Not Placed
+STU0337,Kiran,Male,25,Vijayawada,Civil,60.0,68.0,60.0,82.0,7,62.67,C,Not Placed
+STU0338,Anu,Male,25,Vijayawada,Mechanical,77.0,65.0,35.0,60.0,2,59.0,C,Placed
+STU0339,Varun,Female,20,Hyderabad,Civil,44.0,47.0,67.0,74.0,8,52.67,C,Not Placed
+STU0340,Vijay,Female,18,Hyderabad,ECE,40.0,72.0,81.0,80.0,7,64.33,C,Placed
+STU0341,Kiran,Male,18,Vijayawada,ECE,77.0,80.0,91.0,99.0,5,82.67,B,Placed
+STU0342,Divya,Female,20,Hyderabad,Mechanical,86.0,93.0,69.0,84.0,8,82.67,B,Not Placed
+STU0343,Anu,Male,20,Hyderabad,ECE,48.0,88.0,96.0,96.0,8,77.33,B,Placed
+STU0344,Deepika,Female,23,Warangal,CSE,51.0,96.0,97.0,,7,81.33,B,Not Placed
+STU0345,Priya,Male,22,Visakhapatnam,CSE,63.0,78.0,47.0,87.0,4,62.67,C,Not Placed
+STU0346,Divya,Female,20,Warangal,Civil,41.0,36.0,55.0,,8,44.0,D,Not Placed
+STU0347,Anu,Male,25,Visakhapatnam,ECE,77.0,70.0,41.0,92.0,4,62.67,C,Not Placed
+STU0348,Ramesh,Male,19,Guntur,Mechanical,92.0,46.0,98.0,88.0,6,78.67,B,Placed
+STU0349,Keerthi,Male,19,Guntur,Mechanical,39.0,35.0,46.0,98.0,5,40.0,D,Placed
+STU0350,Nikhil,Female,23,Hyderabad,ECE,93.0,77.0,95.0,,8,88.33,A,Placed
+STU0351,Kiran,Male,18,Visakhapatnam,EEE,72.0,82.0,48.0,62.0,3,67.33,C,Not Placed
+STU0352,Sneha,Female,19,Visakhapatnam,Civil,60.0,59.0,50.0,85.0,4,56.33,C,Not Placed
+STU0353,Rahul,Female,19,Guntur,CSE,50.0,92.0,93.0,97.0,3,78.33,B,Not Placed
+STU0354,Ravi,Male,24,Warangal,Mechanical,100.0,57.0,57.0,68.0,2,71.33,B,Not Placed
+STU0355,Deepika,Female,24,Guntur,Civil,66.0,70.0,85.0,81.0,5,73.67,B,Not Placed
+STU0356,Sneha,Male,24,Warangal,Civil,73.0,75.0,62.0,72.0,4,70.0,B,Not Placed
+STU0357,Divya,Male,20,Warangal,Civil,76.0,49.0,80.0,95.0,8,68.33,C,Not Placed
+STU0358,Teja,Female,24,Hyderabad,Civil,48.0,38.0,83.0,69.0,1,56.33,C,Placed
+STU0359,Rahul,Female,20,Visakhapatnam,EEE,,42.0,72.0,73.0,1,55.67,C,Not Placed
+STU0360,Nikhil,Male,21,Warangal,Mechanical,65.0,100.0,71.0,63.0,7,78.67,B,Not Placed
+STU0361,Suresh,Female,18,Hyderabad,EEE,60.0,91.0,63.0,100.0,6,71.33,B,Placed
+STU0362,Rahul,Female,25,Vijayawada,CSE,58.0,57.0,100.0,67.0,7,71.67,B,Placed
+STU0363,Suresh,Female,22,Vijayawada,ECE,67.0,35.0,77.0,89.0,3,59.67,C,Placed
+STU0364,Sneha,Female,18,Warangal,EEE,97.0,80.0,44.0,80.0,4,73.67,B,Placed
+STU0365,Manoj,Male,20,Guntur,Civil,86.0,46.0,79.0,74.0,4,70.33,B,Not Placed
+STU0366,Akhil,Female,22,Vijayawada,Civil,95.0,36.0,49.0,82.0,8,60.0,C,Placed
+STU0367,Deepika,Male,18,Visakhapatnam,Mechanical,49.0,84.0,67.0,94.0,5,66.67,C,Placed
+STU0368,Manoj,Female,25,Guntur,CSE,72.0,59.0,76.0,92.0,2,69.0,C,Placed
+STU0369,Anu,Male,19,Vijayawada,ECE,89.0,48.0,61.0,94.0,7,66.0,C,Placed
+STU0370,Sneha,Male,25,Visakhapatnam,CSE,46.0,44.0,41.0,71.0,5,43.67,D,Placed
+STU0371,Varun,Male,22,Guntur,Mechanical,92.0,86.0,,80.0,1,89.33,A,Not Placed
+STU0372,Kiran,Male,19,Warangal,CSE,44.0,80.0,99.0,66.0,5,74.33,B,Not Placed
+STU0373,Deepika,Male,22,Guntur,Mechanical,85.0,38.0,95.0,70.0,4,72.67,B,Placed
+STU0374,Ramesh,Female,20,Visakhapatnam,EEE,36.0,53.0,50.0,62.0,1,46.33,D,Not Placed
+STU0375,Teja,Male,22,Vijayawada,EEE,62.0,87.0,100.0,69.0,3,83.0,B,Placed
+STU0376,Meena,Female,21,Hyderabad,ECE,41.0,94.0,44.0,78.0,2,59.67,C,Not Placed
+STU0377,Kiran,Male,25,Visakhapatnam,EEE,51.0,65.0,47.0,78.0,2,54.33,C,Placed
+STU0378,Akhil,Female,25,Visakhapatnam,Civil,74.0,54.0,81.0,80.0,7,69.67,C,Placed
+STU0379,Ravi,Female,21,Vijayawada,Mechanical,70.0,81.0,52.0,81.0,8,67.67,C,Not Placed
+STU0380,Nikhil,Female,22,Guntur,Civil,48.0,57.0,45.0,77.0,3,50.0,C,Placed
+STU0381,Vijay,Male,19,Hyderabad,Civil,38.0,86.0,62.0,62.0,5,62.0,C,Not Placed
+STU0382,Sneha,Female,24,Vijayawada,Civil,72.0,52.0,94.0,92.0,2,72.67,B,Not Placed
+STU0383,Divya,Male,21,Warangal,ECE,100.0,52.0,92.0,70.0,3,81.33,B,Placed
+STU0384,Keerthi,Female,18,Vijayawada,Mechanical,64.0,43.0,68.0,83.0,4,58.33,C,Placed
+STU0385,Rahul,Female,24,Guntur,Mechanical,40.0,40.0,76.0,66.0,5,52.0,C,Not Placed
+STU0386,Varun,Male,24,Guntur,EEE,44.0,67.0,83.0,74.0,7,64.67,C,Not Placed
+STU0387,Divya,Female,25,Warangal,CSE,99.0,52.0,91.0,70.0,4,80.67,B,Placed
+STU0388,Manoj,Female,21,Vijayawada,ECE,55.0,81.0,50.0,74.0,7,62.0,C,Not Placed
+STU0389,Kiran,Female,25,Guntur,ECE,55.0,87.0,37.0,75.0,1,59.67,C,Placed
+STU0390,Varun,Male,20,Warangal,CSE,53.0,42.0,56.0,76.0,3,50.33,C,Not Placed
+STU0391,Deepika,Male,22,Hyderabad,ECE,92.0,95.0,96.0,70.0,4,94.33,A,Not Placed
+STU0392,Deepika,Male,20,Warangal,Civil,68.0,56.0,78.0,89.0,2,67.33,C,Placed
+STU0393,Ramesh,Female,20,Hyderabad,CSE,60.0,99.0,88.0,69.0,2,82.33,B,Placed
+STU0394,Keerthi,Male,19,Hyderabad,Mechanical,51.0,35.0,90.0,,7,58.67,C,Not Placed
+STU0395,Priya,Female,21,Guntur,Mechanical,79.0,47.0,89.0,68.0,5,71.67,B,Not Placed
+STU0396,Meena,Male,22,Warangal,Civil,87.0,67.0,59.0,60.0,1,71.0,B,Placed
+STU0397,Manoj,Male,24,Vijayawada,EEE,87.0,81.0,48.0,69.0,7,72.0,B,Not Placed
+STU0398,Vijay,Female,23,Warangal,EEE,85.0,61.0,87.0,95.0,8,77.67,B,Placed
+STU0399,Divya,Female,22,Visakhapatnam,Civil,79.0,85.0,52.0,67.0,4,72.0,B,Not Placed
+STU0400,Anu,Male,21,Warangal,Mechanical,78.0,41.0,55.0,84.0,1,58.0,C,Placed
+STU0401,Sneha,Female,24,Hyderabad,CSE,68.0,63.0,82.0,65.0,1,71.0,B,Not Placed
+STU0402,Ramesh,Female,18,Vijayawada,Mechanical,91.0,36.0,60.0,93.0,5,62.33,C,Placed
+STU0403,Priya,Male,20,Hyderabad,EEE,65.0,35.0,55.0,65.0,5,51.67,C,Not Placed
+STU0404,Divya,Female,24,Warangal,ECE,36.0,43.0,46.0,95.0,5,41.67,D,Not Placed
+STU0405,Divya,Female,21,Warangal,ECE,93.0,86.0,35.0,76.0,3,71.33,B,Not Placed
+STU0406,Manoj,Male,19,Warangal,EEE,78.0,49.0,100.0,76.0,5,75.67,B,Not Placed
+STU0407,Ramesh,Female,21,Visakhapatnam,Mechanical,93.0,38.0,96.0,67.0,5,75.67,B,Placed
+STU0408,Ramesh,Male,21,Visakhapatnam,Mechanical,80.0,36.0,68.0,75.0,5,61.33,C,Placed
+STU0409,Ramesh,Female,19,Warangal,ECE,95.0,75.0,80.0,73.0,5,83.33,B,Placed
+STU0410,Rahul,Female,21,Vijayawada,ECE,68.0,61.0,64.0,72.0,4,64.33,C,Not Placed
+STU0411,Sneha,Male,19,Hyderabad,Mechanical,35.0,40.0,96.0,83.0,6,57.0,C,Not Placed
+STU0412,Varun,Female,25,Vijayawada,Civil,70.0,85.0,63.0,96.0,3,72.67,B,Placed
+STU0413,Manoj,Female,25,Warangal,CSE,99.0,79.0,85.0,71.0,8,87.67,A,Placed
+STU0414,Manoj,Female,23,Hyderabad,CSE,61.0,83.0,47.0,80.0,6,63.67,C,Not Placed
+STU0415,Anu,Female,21,Visakhapatnam,Mechanical,78.0,81.0,58.0,91.0,7,72.33,B,Placed
+STU0416,Suresh,Female,23,Guntur,EEE,92.0,58.0,51.0,96.0,4,67.0,C,Placed
+STU0417,Vijay,Male,24,Guntur,ECE,53.0,54.0,95.0,60.0,3,67.33,C,Not Placed
+STU0418,Keerthi,Male,23,Guntur,EEE,67.0,41.0,85.0,66.0,3,64.33,C,Placed
+STU0419,Rahul,Female,25,Hyderabad,Mechanical,,68.0,81.0,83.0,5,75.33,B,Not Placed
+STU0420,Ravi,Female,19,Visakhapatnam,Civil,60.0,57.0,71.0,82.0,6,62.67,C,Not Placed
+STU0421,Nikhil,Male,24,Warangal,EEE,94.0,53.0,56.0,100.0,6,67.67,C,Not Placed
+STU0422,Deepika,Female,19,Hyderabad,ECE,78.0,64.0,75.0,80.0,5,72.33,B,Not Placed
+STU0423,Deepika,Female,22,Guntur,EEE,92.0,87.0,56.0,71.0,1,78.33,B,Placed
+STU0424,Meena,Female,19,Vijayawada,ECE,85.0,48.0,47.0,64.0,8,60.0,C,Placed
+STU0425,Ravi,Female,19,Hyderabad,EEE,54.0,45.0,84.0,79.0,4,61.0,C,Placed
+STU0426,Pooja,Female,20,Vijayawada,Civil,56.0,38.0,39.0,82.0,6,44.33,D,Not Placed
+STU0427,Nikhil,Female,25,Vijayawada,Civil,57.0,93.0,90.0,93.0,5,80.0,B,Not Placed
+STU0428,Keerthi,Male,19,Guntur,EEE,81.0,87.0,68.0,69.0,5,78.67,B,Placed
+STU0429,Ravi,Male,23,Visakhapatnam,Mechanical,36.0,97.0,96.0,79.0,1,76.33,B,Not Placed
+STU0430,Pooja,Male,18,Warangal,EEE,59.0,87.0,90.0,85.0,4,78.67,B,Placed
+STU0431,Ramesh,Female,21,Visakhapatnam,CSE,89.0,65.0,69.0,78.0,5,74.33,B,Not Placed
+STU0432,Rahul,Male,20,Vijayawada,EEE,49.0,93.0,92.0,77.0,8,78.0,B,Placed
+STU0433,Akhil,Male,20,Hyderabad,Civil,37.0,58.0,48.0,78.0,5,47.67,D,Placed
+STU0434,Nikhil,Male,21,Hyderabad,ECE,36.0,98.0,62.0,81.0,7,65.33,C,Not Placed
+STU0435,Keerthi,Female,25,Hyderabad,EEE,45.0,53.0,,77.0,7,46.67,D,Placed
+STU0436,Teja,Female,20,Vijayawada,EEE,83.0,36.0,50.0,75.0,7,56.33,C,Not Placed
+STU0437,Meena,Male,21,Guntur,CSE,61.0,95.0,84.0,79.0,6,80.0,B,Placed
+STU0438,Priya,Male,22,Guntur,EEE,60.0,81.0,41.0,73.0,2,60.67,C,Placed
+STU0439,Suresh,Female,18,Vijayawada,EEE,50.0,85.0,66.0,60.0,1,67.0,C,Not Placed
+STU0440,Deepika,Male,23,Hyderabad,ECE,55.0,98.0,46.0,99.0,6,66.33,C,Placed
+STU0441,Priya,Female,20,Warangal,CSE,51.0,97.0,64.0,80.0,6,70.67,B,Not Placed
+STU0442,Rahul,Male,24,Visakhapatnam,ECE,67.0,40.0,97.0,88.0,5,68.0,C,Not Placed
+STU0443,Rahul,Male,23,Visakhapatnam,Mechanical,70.0,55.0,43.0,93.0,3,56.0,C,Not Placed
+STU0444,Pooja,Female,23,Guntur,CSE,99.0,83.0,58.0,61.0,6,80.0,B,Placed
+STU0445,Akhil,Male,24,Vijayawada,Civil,98.0,54.0,71.0,80.0,7,74.33,B,Not Placed
+STU0446,Kiran,Male,19,Hyderabad,ECE,57.0,39.0,60.0,66.0,8,52.0,C,Placed
+STU0447,Kiran,Male,24,Guntur,Civil,67.0,41.0,81.0,74.0,2,63.0,C,Placed
+STU0448,Rahul,Female,19,Guntur,CSE,81.0,88.0,82.0,63.0,5,83.67,B,Placed
+STU0449,Arjun,Female,19,Vijayawada,Civil,47.0,47.0,64.0,94.0,7,52.67,C,Placed
+STU0450,Rahul,Male,20,Warangal,Civil,88.0,48.0,80.0,89.0,7,72.0,B,Placed
+STU0451,Anu,Male,24,Warangal,EEE,55.0,91.0,80.0,80.0,6,75.33,B,Not Placed
+STU0452,Suresh,Female,23,Warangal,ECE,62.0,,67.0,83.0,8,70.67,B,Not Placed
+STU0453,Ramesh,Male,18,Visakhapatnam,Civil,37.0,52.0,73.0,60.0,5,54.0,C,Placed
+STU0454,Rahul,Female,18,Visakhapatnam,Civil,100.0,54.0,47.0,62.0,8,67.0,C,Not Placed
+STU0455,Sneha,Male,22,Visakhapatnam,Civil,66.0,64.0,67.0,,2,65.67,C,Not Placed
+STU0456,Varun,Male,19,Visakhapatnam,Mechanical,57.0,97.0,47.0,98.0,5,67.0,C,Placed
+STU0457,Varun,Female,19,Hyderabad,EEE,79.0,90.0,88.0,67.0,4,85.67,A,Placed
+STU0458,Ramesh,Male,22,Warangal,CSE,75.0,54.0,76.0,92.0,4,68.33,C,Placed
+STU0459,Priya,Female,25,Warangal,Civil,99.0,46.0,63.0,87.0,5,69.33,C,Not Placed
+STU0460,Sneha,Male,23,Hyderabad,Mechanical,41.0,86.0,68.0,65.0,7,65.0,C,Not Placed
+STU0461,Sneha,Male,25,Warangal,ECE,97.0,85.0,60.0,95.0,4,80.67,B,Placed
+STU0462,Arjun,Female,24,Visakhapatnam,Civil,46.0,49.0,87.0,87.0,6,60.67,C,Not Placed
+STU0463,Rahul,Female,23,Warangal,CSE,74.0,56.0,79.0,99.0,8,69.67,C,Placed
+STU0464,Nikhil,Male,21,Vijayawada,EEE,54.0,45.0,49.0,63.0,4,49.33,D,Placed
+STU0465,Pooja,Male,23,Hyderabad,EEE,92.0,95.0,37.0,81.0,4,74.67,B,Placed
+STU0466,Rahul,Female,25,Warangal,ECE,37.0,83.0,40.0,76.0,3,53.33,C,Placed
+STU0467,Pooja,Male,22,Hyderabad,Mechanical,36.0,43.0,84.0,77.0,6,54.33,C,Placed
+STU0468,Ravi,Female,24,Vijayawada,Mechanical,100.0,47.0,75.0,91.0,2,74.0,B,Placed
+STU0469,Rahul,Female,18,Hyderabad,ECE,74.0,77.0,97.0,85.0,3,82.67,B,Placed
+STU0470,Divya,Female,23,Visakhapatnam,ECE,99.0,70.0,42.0,100.0,5,70.33,B,Not Placed
+STU0471,Ravi,Female,21,Vijayawada,EEE,85.0,52.0,46.0,84.0,4,61.0,C,Not Placed
+STU0472,Meena,Male,24,Visakhapatnam,Civil,77.0,92.0,51.0,73.0,3,73.33,B,Placed
+STU0473,Sneha,Female,20,Guntur,ECE,55.0,75.0,43.0,95.0,2,57.67,C,Placed
+STU0474,Akhil,Male,18,Visakhapatnam,Mechanical,87.0,73.0,91.0,100.0,5,83.67,B,Placed
+STU0475,Rahul,Male,20,Vijayawada,CSE,69.0,64.0,64.0,74.0,1,65.67,C,Not Placed
+STU0476,Arjun,Female,20,Warangal,Civil,95.0,82.0,58.0,84.0,8,78.33,B,Not Placed
+STU0477,Sneha,Male,21,Vijayawada,CSE,87.0,36.0,69.0,86.0,4,64.0,C,Placed
+STU0478,Rahul,Male,20,Guntur,Civil,97.0,76.0,93.0,75.0,7,88.67,A,Not Placed
+STU0479,Priya,Female,23,Guntur,Civil,39.0,,92.0,89.0,1,59.67,C,Placed
+STU0480,Manoj,Female,18,Warangal,Mechanical,41.0,59.0,72.0,88.0,7,57.33,C,Not Placed
+STU0481,Pooja,Female,20,Guntur,EEE,41.0,53.0,94.0,88.0,2,62.67,C,Placed
+STU0482,Anu,Male,24,Guntur,EEE,92.0,38.0,,89.0,4,62.33,C,Not Placed
+STU0483,Arjun,Female,23,Vijayawada,CSE,46.0,49.0,92.0,100.0,6,62.33,C,Placed
+STU0484,Manoj,Female,20,Guntur,Civil,83.0,40.0,56.0,81.0,3,59.67,C,Placed
+STU0485,Sneha,Male,18,Guntur,EEE,74.0,92.0,71.0,100.0,3,79.0,B,Placed
+STU0486,Sneha,Male,18,Warangal,EEE,36.0,93.0,98.0,91.0,1,75.67,B,Not Placed
+STU0487,Meena,Male,25,Guntur,Mechanical,91.0,45.0,35.0,75.0,5,57.0,C,Placed
+STU0488,Priya,Male,20,Hyderabad,EEE,39.0,53.0,39.0,96.0,5,43.67,D,Not Placed
+STU0489,Arjun,Male,19,Guntur,ECE,55.0,71.0,57.0,89.0,6,61.0,C,Placed
+STU0490,Arjun,Female,23,Visakhapatnam,Mechanical,43.0,89.0,43.0,78.0,8,58.33,C,Placed
+STU0491,Kiran,Female,23,Warangal,Mechanical,61.0,61.0,42.0,66.0,2,54.67,C,Not Placed
+STU0492,Deepika,Female,24,Warangal,EEE,68.0,,51.0,99.0,8,66.33,C,Not Placed
+STU0493,Keerthi,Male,21,Visakhapatnam,ECE,35.0,50.0,38.0,89.0,2,41.0,D,Placed
+STU0494,Deepika,Female,24,Hyderabad,EEE,79.0,62.0,36.0,100.0,4,59.0,C,Not Placed
+STU0495,Vijay,Male,22,Visakhapatnam,Civil,76.0,35.0,49.0,81.0,6,53.33,C,Not Placed
+STU0496,Varun,Male,20,Vijayawada,EEE,78.0,96.0,95.0,62.0,3,89.67,A,Not Placed
+STU0497,Sneha,Female,23,Guntur,Mechanical,42.0,73.0,75.0,95.0,1,63.33,C,Placed
+STU0498,Varun,Female,23,Hyderabad,ECE,70.0,38.0,78.0,84.0,3,62.0,C,Not Placed
+STU0499,Anu,Male,22,Visakhapatnam,CSE,69.0,87.0,46.0,91.0,4,67.33,C,Not Placed
+STU0500,Nikhil,Female,21,Warangal,EEE,57.0,49.0,82.0,62.0,4,62.67,C,Placed
+STU0501,Nikhil,Male,25,Warangal,ECE,59.0,78.0,96.0,93.0,5,77.67,B,Not Placed
+STU0502,Sneha,Male,20,Vijayawada,CSE,93.0,84.0,49.0,60.0,5,75.33,B,Placed
+STU0503,Deepika,Male,23,Guntur,CSE,48.0,74.0,37.0,96.0,5,53.0,C,Placed
+STU0504,Akhil,Male,21,Visakhapatnam,EEE,75.0,91.0,50.0,77.0,3,72.0,B,Placed
+STU0505,Vijay,Male,18,Warangal,Civil,100.0,48.0,61.0,94.0,6,69.67,C,Not Placed
+STU0506,Vijay,Male,22,Warangal,ECE,56.0,44.0,74.0,99.0,6,58.0,C,Not Placed
+STU0507,Priya,Male,18,Guntur,CSE,48.0,84.0,41.0,65.0,7,57.67,C,Not Placed
+STU0508,Anu,Female,23,Visakhapatnam,EEE,,45.0,94.0,96.0,3,66.33,C,Placed
+STU0509,Nikhil,Male,25,Visakhapatnam,Mechanical,95.0,64.0,63.0,69.0,5,74.0,B,Not Placed
+STU0510,Ramesh,Male,23,Visakhapatnam,Mechanical,97.0,38.0,43.0,90.0,2,59.33,C,Not Placed
+STU0511,Keerthi,Female,20,Visakhapatnam,EEE,51.0,100.0,48.0,85.0,2,66.33,C,Not Placed
+STU0512,Teja,Male,22,Warangal,Mechanical,86.0,87.0,65.0,99.0,4,79.33,B,Placed
+STU0513,Keerthi,Female,19,Visakhapatnam,ECE,90.0,90.0,78.0,94.0,4,86.0,A,Placed
+STU0514,Arjun,Female,19,Warangal,Civil,94.0,76.0,47.0,88.0,3,72.33,B,Not Placed
+STU0515,Ramesh,Male,19,Warangal,Mechanical,76.0,98.0,42.0,65.0,4,72.0,B,Placed
+STU0516,Varun,Male,20,Vijayawada,Mechanical,72.0,84.0,92.0,72.0,4,82.67,B,Not Placed
+STU0517,Pooja,Female,24,Visakhapatnam,CSE,36.0,100.0,86.0,68.0,5,74.0,B,Placed
+STU0518,Divya,Male,18,Warangal,EEE,49.0,71.0,38.0,75.0,7,52.67,C,Not Placed
+STU0519,Akhil,Female,24,Guntur,Mechanical,62.0,57.0,95.0,68.0,4,71.33,B,Not Placed
+STU0520,Divya,Female,20,Visakhapatnam,ECE,52.0,36.0,44.0,61.0,3,44.0,D,Not Placed
+STU0521,Suresh,Male,19,Vijayawada,Mechanical,93.0,89.0,58.0,89.0,7,80.0,B,Not Placed
+STU0522,Ramesh,Female,21,Vijayawada,Mechanical,35.0,98.0,65.0,92.0,5,66.0,C,Not Placed
+STU0523,Teja,Female,18,Hyderabad,Civil,96.0,82.0,49.0,97.0,8,75.67,B,Placed
+STU0524,Sneha,Female,25,Warangal,CSE,46.0,66.0,95.0,100.0,2,69.0,C,Not Placed
+STU0525,Deepika,Male,23,Warangal,CSE,95.0,93.0,100.0,90.0,6,96.0,A,Not Placed
+STU0526,Divya,Female,22,Vijayawada,CSE,73.0,68.0,42.0,100.0,8,61.0,C,Placed
+STU0527,Varun,Male,22,Warangal,CSE,71.0,97.0,45.0,68.0,2,71.0,B,Not Placed
+STU0528,Vijay,Male,22,Visakhapatnam,EEE,36.0,49.0,57.0,97.0,3,47.33,D,Not Placed
+STU0529,Divya,Male,22,Vijayawada,Mechanical,58.0,39.0,78.0,65.0,3,58.33,C,Placed
+STU0530,Keerthi,Female,24,Vijayawada,Mechanical,56.0,61.0,79.0,63.0,5,65.33,C,Placed
+STU0531,Priya,Male,25,Guntur,Mechanical,73.0,95.0,64.0,84.0,7,77.33,B,Not Placed
+STU0532,Vijay,Male,24,Hyderabad,EEE,92.0,83.0,75.0,93.0,1,83.33,B,Placed
+STU0533,Teja,Female,24,Warangal,EEE,77.0,69.0,69.0,66.0,5,71.67,B,Not Placed
+STU0534,Nikhil,Male,21,Warangal,EEE,58.0,75.0,36.0,60.0,2,56.33,C,Placed
+STU0535,Suresh,Male,19,Guntur,EEE,63.0,71.0,67.0,72.0,1,67.0,C,Placed
+STU0536,Deepika,Male,18,Warangal,ECE,50.0,50.0,46.0,98.0,3,48.67,D,Not Placed
+STU0537,Varun,Male,19,Vijayawada,EEE,72.0,94.0,44.0,100.0,8,70.0,B,Not Placed
+STU0538,Suresh,Female,22,Vijayawada,CSE,70.0,42.0,83.0,84.0,6,65.0,C,Placed
+STU0539,Vijay,Female,20,Guntur,CSE,97.0,60.0,85.0,71.0,8,80.67,B,Placed
+STU0540,Sneha,Female,21,Warangal,CSE,91.0,68.0,48.0,62.0,2,69.0,C,Placed
+STU0541,Varun,Female,25,Hyderabad,Mechanical,54.0,35.0,39.0,84.0,5,42.67,D,Placed
+STU0542,Akhil,Female,18,Warangal,Mechanical,96.0,90.0,86.0,64.0,4,90.67,A,Placed
+STU0543,Ramesh,Female,19,Warangal,Civil,80.0,77.0,73.0,85.0,1,76.67,B,Placed
+STU0544,Divya,Female,19,Guntur,EEE,60.0,57.0,40.0,84.0,4,52.33,C,Not Placed
+STU0545,Ramesh,Male,23,Guntur,CSE,91.0,59.0,52.0,62.0,4,67.33,C,Placed
+STU0546,Varun,Male,25,Guntur,CSE,,98.0,92.0,61.0,1,88.0,A,Not Placed
+STU0547,Priya,Female,18,Guntur,CSE,62.0,93.0,54.0,97.0,4,69.67,C,Placed
+STU0548,Priya,Male,25,Hyderabad,Mechanical,40.0,66.0,51.0,60.0,3,52.33,C,Placed
+STU0549,Pooja,Male,25,Warangal,ECE,43.0,48.0,49.0,91.0,4,46.67,D,Placed
+STU0550,Rahul,Female,23,Guntur,EEE,50.0,52.0,76.0,73.0,1,59.33,C,Placed
+STU0551,Akhil,Male,19,Visakhapatnam,ECE,88.0,56.0,82.0,95.0,3,75.33,B,Not Placed
+STU0552,Meena,Male,20,Hyderabad,Civil,299.0,55.0,37.0,91.0,2,58.33,C,Placed
+STU0553,Ravi,Male,19,Warangal,EEE,88.0,95.0,51.0,73.0,3,78.0,B,Not Placed
+STU0554,Manoj,Female,24,Vijayawada,ECE,,58.0,98.0,99.0,2,65.0,C,Not Placed
+STU0555,Divya,Female,18,Warangal,ECE,59.0,50.0,47.0,99.0,6,52.0,C,Placed
+STU0556,Nikhil,Male,22,Hyderabad,ECE,49.0,54.0,95.0,91.0,3,66.0,C,Placed
+STU0557,Priya,Male,23,Visakhapatnam,ECE,90.0,67.0,77.0,99.0,8,78.0,B,Placed
+STU0558,Kiran,Male,20,Vijayawada,CSE,97.0,100.0,49.0,64.0,4,82.0,B,Not Placed
+STU0559,Varun,Female,24,Vijayawada,EEE,64.0,49.0,76.0,74.0,2,63.0,C,Placed
+STU0560,Suresh,Male,24,Vijayawada,CSE,95.0,97.0,41.0,87.0,3,77.67,B,Placed
+STU0561,Deepika,Female,20,Guntur,EEE,52.0,93.0,59.0,100.0,6,68.0,C,Not Placed
+STU0562,Rahul,Female,20,Hyderabad,Civil,42.0,70.0,52.0,67.0,8,54.67,C,Not Placed
+STU0563,Suresh,Male,23,Vijayawada,EEE,55.0,56.0,64.0,65.0,7,58.33,C,Not Placed
+STU0564,Rahul,Female,25,Visakhapatnam,CSE,89.0,66.0,66.0,80.0,7,73.67,B,Placed
+STU0565,Varun,Male,18,Guntur,CSE,40.0,95.0,99.0,62.0,7,78.0,B,Not Placed
+STU0566,Keerthi,Male,25,Guntur,ECE,45.0,36.0,87.0,73.0,3,56.0,C,Not Placed
+STU0567,Pooja,Male,19,Hyderabad,Mechanical,74.0,55.0,93.0,,1,74.0,B,Not Placed
+STU0568,Nikhil,Male,24,Vijayawada,EEE,94.0,35.0,44.0,84.0,6,57.67,C,Placed
+STU0569,Pooja,Female,22,Warangal,Civil,61.0,45.0,77.0,63.0,6,61.0,C,Placed
+STU0570,Kiran,Female,23,Guntur,Civil,40.0,81.0,81.0,71.0,2,67.33,C,Placed
+STU0571,Sneha,Female,21,Warangal,CSE,96.0,61.0,63.0,80.0,6,73.33,B,Not Placed
+STU0572,Manoj,Female,22,Hyderabad,CSE,82.0,79.0,92.0,91.0,2,84.33,B,Not Placed
+STU0573,Teja,Female,25,Warangal,EEE,43.0,59.0,93.0,65.0,2,65.0,C,Not Placed
+STU0574,Anu,Female,19,Hyderabad,ECE,70.0,49.0,53.0,91.0,3,57.33,C,Placed
+STU0575,Manoj,Male,22,Guntur,Civil,51.0,95.0,79.0,86.0,8,75.0,B,Placed
+STU0576,Pooja,Male,19,Hyderabad,ECE,77.0,87.0,78.0,80.0,8,80.67,B,Not Placed
+STU0577,Nikhil,Female,20,Visakhapatnam,ECE,68.0,64.0,96.0,83.0,5,76.0,B,Placed
+STU0578,Sneha,Female,22,Guntur,ECE,55.0,71.0,58.0,71.0,3,61.33,C,Placed
+STU0579,Meena,Male,18,Visakhapatnam,Civil,51.0,91.0,68.0,83.0,3,70.0,B,Placed
+STU0580,Teja,Male,23,Visakhapatnam,ECE,82.0,92.0,55.0,94.0,5,76.33,B,Placed
+STU0581,Ravi,Female,25,Vijayawada,Mechanical,75.0,54.0,35.0,94.0,6,54.67,C,Not Placed
+STU0582,Keerthi,Female,20,Warangal,Mechanical,78.0,49.0,96.0,62.0,3,74.33,B,Placed
+STU0583,Pooja,Male,24,Warangal,ECE,92.0,80.0,,80.0,1,72.67,B,Placed
+STU0584,Varun,Male,22,Vijayawada,CSE,45.0,92.0,46.0,92.0,7,61.0,C,Placed
+STU0585,Keerthi,Female,18,Visakhapatnam,Mechanical,53.0,89.0,82.0,84.0,6,74.67,B,Placed
+STU0586,Pooja,Female,23,Visakhapatnam,Mechanical,46.0,62.0,91.0,86.0,8,66.33,C,Not Placed
+STU0587,Anu,Female,24,Vijayawada,Civil,46.0,53.0,61.0,79.0,8,53.33,C,Not Placed
+STU0588,Arjun,Female,19,Hyderabad,Mechanical,69.0,88.0,57.0,95.0,8,71.33,B,Placed
+STU0589,Rahul,Male,24,Visakhapatnam,Civil,97.0,40.0,73.0,97.0,5,70.0,B,Not Placed
+STU0590,Teja,Female,21,Hyderabad,CSE,54.0,68.0,73.0,100.0,8,65.0,C,Placed
+STU0591,Pooja,Female,20,Guntur,ECE,38.0,50.0,70.0,91.0,2,52.67,C,Not Placed
+STU0592,Varun,Female,24,Visakhapatnam,Mechanical,50.0,82.0,100.0,96.0,1,77.33,B,Not Placed
+STU0593,Anu,Male,20,Visakhapatnam,Mechanical,52.0,80.0,55.0,63.0,5,62.33,C,Not Placed
+STU0594,Suresh,Female,18,Visakhapatnam,EEE,,100.0,,100.0,3,67.67,C,Placed
+STU0595,Deepika,Male,23,Visakhapatnam,EEE,69.0,81.0,47.0,94.0,6,65.67,C,Placed
+STU0596,Ravi,Male,22,Visakhapatnam,Mechanical,87.0,78.0,55.0,66.0,4,73.33,B,Placed
+STU0597,Manoj,Male,21,Warangal,Civil,49.0,88.0,93.0,64.0,2,76.67,B,Placed
+STU0598,Ravi,Female,23,Visakhapatnam,EEE,52.0,91.0,78.0,71.0,5,73.67,B,Placed
+STU0599,Kiran,Male,20,Vijayawada,ECE,74.0,51.0,61.0,68.0,2,62.0,C,Not Placed
+STU0600,Kiran,Male,18,Guntur,Mechanical,40.0,60.0,48.0,62.0,1,49.33,D,Not Placed
+STU0601,Kiran,Female,18,Hyderabad,EEE,36.0,47.0,50.0,98.0,4,44.33,D,Placed
+STU0602,Anu,Female,18,Hyderabad,ECE,70.0,79.0,80.0,70.0,4,76.33,B,Placed
+STU0603,Kiran,Male,21,Vijayawada,EEE,56.0,35.0,47.0,73.0,8,46.0,D,Not Placed
+STU0604,Varun,Male,25,Hyderabad,ECE,80.0,83.0,89.0,73.0,4,84.0,B,Not Placed
+STU0605,Kiran,Female,19,Guntur,CSE,52.0,98.0,81.0,78.0,1,77.0,B,Placed
+STU0606,Akhil,Female,19,Guntur,EEE,93.0,74.0,91.0,74.0,7,86.0,A,Not Placed
+STU0607,Suresh,Male,19,Guntur,EEE,57.0,36.0,97.0,66.0,7,63.33,C,Not Placed
+STU0608,Manoj,Male,19,Vijayawada,Mechanical,86.0,48.0,56.0,64.0,6,63.33,C,Placed
+STU0609,Akhil,Male,24,Hyderabad,ECE,89.0,98.0,70.0,97.0,5,85.67,A,Not Placed
+STU0610,Divya,Female,24,Guntur,Civil,70.0,53.0,93.0,66.0,2,72.0,B,Not Placed
+STU0611,Keerthi,Female,21,Vijayawada,CSE,47.0,41.0,43.0,91.0,1,43.67,D,Placed
+STU0612,Ramesh,Female,20,Visakhapatnam,Civil,47.0,44.0,98.0,89.0,4,63.0,C,Not Placed
+STU0613,Keerthi,Female,22,Warangal,EEE,37.0,39.0,90.0,67.0,7,55.33,C,Not Placed
+STU0614,Akhil,Female,25,Guntur,CSE,39.0,57.0,73.0,70.0,8,56.33,C,Not Placed
+STU0615,Sneha,Female,24,Guntur,CSE,97.0,,95.0,95.0,3,95.67,A,Placed
+STU0616,Ramesh,Female,25,Warangal,Mechanical,80.0,71.0,76.0,63.0,1,75.67,B,Placed
+STU0617,Sneha,Female,23,Warangal,CSE,78.0,83.0,47.0,87.0,6,69.33,C,Not Placed
+STU0618,Suresh,Female,18,Vijayawada,ECE,65.0,74.0,45.0,64.0,5,61.33,C,Placed
+STU0619,Akhil,Male,18,Warangal,EEE,39.0,93.0,89.0,96.0,7,73.67,B,Not Placed
+STU0620,Ravi,Female,18,Visakhapatnam,Mechanical,84.0,76.0,47.0,91.0,2,69.0,C,Placed
+STU0621,Akhil,Female,23,Vijayawada,Civil,73.0,81.0,90.0,72.0,8,81.33,B,Placed
+STU0622,Teja,Male,22,Visakhapatnam,CSE,73.0,86.0,63.0,99.0,2,74.0,B,Placed
+STU0623,Varun,Female,22,Hyderabad,Civil,95.0,89.0,61.0,82.0,2,81.67,B,Not Placed
+STU0624,Manoj,Female,24,Warangal,EEE,60.0,88.0,86.0,76.0,8,78.0,B,Placed
+STU0625,Ravi,Male,25,Vijayawada,Mechanical,69.0,90.0,42.0,93.0,4,67.0,C,Not Placed
+STU0626,Nikhil,Male,21,Vijayawada,EEE,90.0,87.0,75.0,64.0,4,84.0,B,Not Placed
+STU0627,Vijay,Female,20,Visakhapatnam,Civil,65.0,86.0,65.0,67.0,3,72.0,B,Placed
+STU0628,Ravi,Male,22,Guntur,Mechanical,90.0,89.0,39.0,72.0,3,72.67,B,Not Placed
+STU0629,Sneha,Male,22,Visakhapatnam,Civil,57.0,40.0,97.0,61.0,1,64.67,C,Placed
+STU0630,Akhil,Female,19,Guntur,EEE,46.0,85.0,52.0,75.0,2,61.0,C,Placed
+STU0631,Manoj,Female,25,Hyderabad,ECE,50.0,75.0,77.0,97.0,7,67.33,C,Placed
+STU0632,Suresh,Male,20,Hyderabad,ECE,62.0,70.0,91.0,86.0,5,74.33,B,Placed
+STU0633,Keerthi,Female,19,Visakhapatnam,Civil,89.0,95.0,66.0,77.0,3,83.33,B,Not Placed
+STU0634,Keerthi,Female,22,Hyderabad,Civil,39.0,41.0,65.0,76.0,7,48.33,D,Not Placed
+STU0635,Divya,Male,21,Guntur,Mechanical,36.0,85.0,67.0,79.0,2,62.67,C,Placed
+STU0636,Pooja,Male,20,Guntur,EEE,87.0,39.0,70.0,65.0,8,65.33,C,Not Placed
+STU0637,Suresh,Female,24,Hyderabad,ECE,,99.0,43.0,82.0,7,70.0,B,Not Placed
+STU0638,Nikhil,Male,18,Vijayawada,Mechanical,52.0,35.0,86.0,72.0,5,57.67,C,Not Placed
+STU0639,Varun,Male,19,Vijayawada,ECE,51.0,87.0,75.0,88.0,8,71.0,B,Placed
+STU0640,Vijay,Male,23,Visakhapatnam,ECE,45.0,88.0,82.0,71.0,7,71.67,B,Not Placed
+STU0641,Varun,Male,18,Hyderabad,Civil,64.0,46.0,94.0,72.0,5,68.0,C,Placed
+STU0642,Priya,Female,24,Warangal,EEE,461.0,46.0,82.0,70.0,2,60.67,C,Placed
+STU0643,Manoj,Female,25,Guntur,CSE,63.0,61.0,59.0,77.0,5,61.0,C,Not Placed
+STU0644,Ramesh,Male,24,Vijayawada,Civil,62.0,71.0,59.0,86.0,3,64.0,C,Not Placed
+STU0645,Sneha,Male,22,Visakhapatnam,ECE,92.0,66.0,82.0,97.0,8,80.0,B,Placed
+STU0646,Ravi,Female,20,Visakhapatnam,Mechanical,62.0,,89.0,98.0,5,78.33,B,Placed
+STU0647,Kiran,Male,18,Visakhapatnam,ECE,95.0,80.0,40.0,60.0,5,71.67,B,Not Placed
+STU0648,Pooja,Female,23,Vijayawada,Civil,40.0,57.0,68.0,70.0,8,55.0,C,Not Placed
+STU0649,Nikhil,Male,19,Visakhapatnam,Civil,90.0,53.0,68.0,67.0,6,70.33,B,Placed
+STU0650,Sneha,Female,22,Visakhapatnam,Mechanical,71.0,68.0,68.0,93.0,6,69.0,C,Not Placed
+STU0651,Anu,Female,25,Vijayawada,Civil,91.0,41.0,59.0,69.0,1,63.67,C,Placed
+STU0652,Anu,Male,25,Visakhapatnam,ECE,94.0,90.0,49.0,91.0,1,77.67,B,Not Placed
+STU0653,Divya,Female,25,Guntur,CSE,53.0,50.0,79.0,65.0,4,60.67,C,Not Placed
+STU0654,Anu,Male,22,Warangal,Civil,62.0,35.0,58.0,86.0,2,51.67,C,Placed
+STU0655,Keerthi,Male,23,Hyderabad,EEE,50.0,85.0,82.0,97.0,2,72.33,B,Not Placed
+STU0656,Sneha,Male,19,Guntur,Mechanical,93.0,69.0,35.0,81.0,1,65.67,C,Not Placed
+STU0657,Akhil,Male,21,Hyderabad,EEE,76.0,42.0,44.0,95.0,7,54.0,C,Placed
+STU0658,Ramesh,Female,20,Vijayawada,Mechanical,46.0,37.0,61.0,70.0,7,48.0,D,Not Placed
+STU0659,Pooja,Male,19,Visakhapatnam,Mechanical,90.0,74.0,51.0,82.0,2,71.67,B,Not Placed
+STU0660,Manoj,Male,25,Guntur,Mechanical,95.0,69.0,89.0,65.0,7,84.33,B,Not Placed
+STU0661,Deepika,Male,24,Guntur,CSE,40.0,100.0,78.0,89.0,4,72.67,B,Placed
+STU0662,Keerthi,Male,22,Guntur,Mechanical,45.0,96.0,73.0,69.0,3,71.33,B,Not Placed
+STU0663,Meena,Female,22,Warangal,CSE,44.0,40.0,100.0,66.0,7,61.33,C,Not Placed
+STU0664,Kiran,Female,22,Visakhapatnam,EEE,45.0,99.0,37.0,67.0,8,60.33,C,Placed
+STU0665,Anu,Female,18,Hyderabad,Mechanical,73.0,75.0,93.0,88.0,5,80.33,B,Not Placed
+STU0666,Anu,Male,20,Hyderabad,Civil,68.0,48.0,90.0,94.0,1,68.67,C,Placed
+STU0667,Ramesh,Male,18,Vijayawada,Mechanical,93.0,86.0,97.0,79.0,6,92.0,A,Not Placed
+STU0668,Pooja,Male,20,Vijayawada,CSE,59.0,49.0,37.0,72.0,1,48.33,D,Placed
+STU0669,Keerthi,Male,21,Guntur,Civil,59.0,46.0,73.0,89.0,3,59.33,C,Not Placed
+STU0670,Suresh,Male,19,Vijayawada,ECE,91.0,97.0,95.0,61.0,8,94.33,A,Placed
+STU0671,Rahul,Female,24,Hyderabad,EEE,,48.0,90.0,86.0,8,58.0,C,Not Placed
+STU0672,Priya,Female,24,Guntur,Civil,97.0,64.0,42.0,93.0,1,67.67,C,Not Placed
+STU0673,Varun,Female,19,Visakhapatnam,Mechanical,95.0,49.0,98.0,99.0,6,80.67,B,Not Placed
+STU0674,Suresh,Male,20,Visakhapatnam,ECE,95.0,79.0,91.0,74.0,4,88.33,A,Not Placed
+STU0675,Deepika,Female,20,Visakhapatnam,Mechanical,88.0,81.0,95.0,70.0,4,88.0,A,Not Placed
+STU0676,Arjun,Female,20,Vijayawada,ECE,55.0,97.0,,86.0,8,66.33,C,Not Placed
+STU0677,Meena,Male,18,Hyderabad,EEE,68.0,80.0,,71.0,1,67.67,C,Placed
+STU0678,Akhil,Female,19,Warangal,ECE,50.0,63.0,97.0,76.0,6,70.0,B,Not Placed
+STU0679,Priya,Female,20,Warangal,Civil,48.0,41.0,91.0,89.0,2,60.0,C,Placed
+STU0680,Deepika,Male,18,Warangal,CSE,56.0,50.0,61.0,83.0,3,55.67,C,Not Placed
+STU0681,Nikhil,Female,19,Vijayawada,EEE,77.0,52.0,50.0,72.0,8,59.67,C,Not Placed
+STU0682,Ravi,Male,25,Visakhapatnam,EEE,99.0,56.0,45.0,77.0,6,66.67,C,Not Placed
+STU0683,Divya,Male,20,Warangal,Mechanical,64.0,52.0,89.0,86.0,7,68.33,C,Not Placed
+STU0684,Manoj,Female,18,Guntur,ECE,36.0,43.0,45.0,81.0,6,41.33,D,Not Placed
+STU0685,Anu,Female,18,Guntur,CSE,54.0,42.0,72.0,86.0,7,56.0,C,Not Placed
+STU0686,Akhil,Female,18,Visakhapatnam,Civil,53.0,86.0,92.0,73.0,8,77.0,B,Not Placed
+STU0687,Ramesh,Male,22,Hyderabad,CSE,77.0,84.0,51.0,93.0,5,70.67,B,Placed
+STU0688,Arjun,Female,23,Vijayawada,CSE,38.0,68.0,65.0,79.0,7,57.0,C,Placed
+STU0689,Priya,Female,22,Warangal,EEE,50.0,41.0,50.0,88.0,5,47.0,D,Placed
+STU0690,Nikhil,Female,21,Warangal,Civil,64.0,79.0,73.0,78.0,3,72.0,B,Not Placed
+STU0691,Manoj,Male,19,Visakhapatnam,Civil,59.0,81.0,93.0,66.0,3,77.67,B,Not Placed
+STU0692,Suresh,Male,19,Hyderabad,Mechanical,51.0,95.0,62.0,88.0,2,69.33,C,Not Placed
+STU0693,Manoj,Female,24,Visakhapatnam,Civil,98.0,89.0,91.0,91.0,7,92.67,A,Placed
+STU0694,Sneha,Male,25,Guntur,ECE,100.0,50.0,62.0,89.0,8,70.67,B,Placed
+STU0695,Anu,Female,19,Warangal,Mechanical,49.0,50.0,82.0,96.0,5,60.33,C,Placed
+STU0696,Manoj,Male,19,Visakhapatnam,EEE,82.0,73.0,72.0,91.0,1,75.67,B,Placed
+STU0697,Sneha,Female,18,Visakhapatnam,EEE,62.0,58.0,97.0,60.0,2,72.33,B,Not Placed
+STU0698,Arjun,Male,24,Guntur,Civil,74.0,92.0,78.0,84.0,8,81.33,B,Placed
+STU0699,Sneha,Female,25,Guntur,ECE,76.0,46.0,87.0,84.0,4,69.67,C,Not Placed
+STU0700,Akhil,Male,25,Visakhapatnam,CSE,56.0,38.0,74.0,95.0,2,56.0,C,Placed
+STU0701,Rahul,Male,21,Guntur,Civil,37.0,50.0,58.0,61.0,5,48.33,D,Placed
+STU0702,Meena,Female,19,Warangal,Civil,76.0,86.0,40.0,91.0,1,67.33,C,Not Placed
+STU0703,Suresh,Male,24,Hyderabad,Civil,75.0,83.0,67.0,65.0,2,75.0,B,Placed
+STU0704,Teja,Male,22,Vijayawada,ECE,67.0,46.0,54.0,79.0,7,55.67,C,Placed
+STU0705,Priya,Female,20,Hyderabad,CSE,310.0,84.0,47.0,80.0,3,68.0,C,Not Placed
+STU0706,Akhil,Female,24,Hyderabad,CSE,60.0,65.0,65.0,91.0,7,63.33,C,Placed
+STU0707,Vijay,Male,23,Guntur,Civil,87.0,43.0,96.0,61.0,7,75.33,B,Placed
+STU0708,Ravi,Female,19,Vijayawada,Civil,51.0,73.0,87.0,88.0,2,70.33,B,Placed
+STU0709,Sneha,Female,20,Vijayawada,Civil,89.0,92.0,40.0,60.0,8,73.67,B,Not Placed
+STU0710,Anu,Male,18,Guntur,EEE,67.0,83.0,79.0,100.0,4,76.33,B,Not Placed
+STU0711,Priya,Male,19,Visakhapatnam,CSE,85.0,50.0,52.0,95.0,5,62.33,C,Not Placed
+STU0712,Rahul,Female,23,Visakhapatnam,Mechanical,69.0,66.0,76.0,81.0,4,70.33,B,Not Placed
+STU0713,Deepika,Female,18,Vijayawada,CSE,95.0,35.0,36.0,71.0,7,55.33,C,Not Placed
+STU0714,Ramesh,Male,19,Warangal,CSE,91.0,50.0,80.0,84.0,6,73.67,B,Not Placed
+STU0715,Anu,Male,19,Guntur,EEE,59.0,91.0,36.0,74.0,1,62.0,C,Not Placed
+STU0716,Divya,Male,19,Warangal,EEE,63.0,64.0,98.0,83.0,1,75.0,B,Not Placed
+STU0717,Keerthi,Male,18,Vijayawada,Mechanical,49.0,70.0,99.0,91.0,3,72.67,B,Placed
+STU0718,Varun,Male,19,Warangal,ECE,43.0,51.0,68.0,96.0,4,54.0,C,Not Placed
+STU0719,Rahul,Male,22,Warangal,Mechanical,35.0,89.0,41.0,80.0,7,55.0,C,Not Placed
+STU0720,Vijay,Male,25,Guntur,EEE,40.0,63.0,41.0,77.0,7,48.0,D,Not Placed
+STU0721,Akhil,Male,24,Vijayawada,EEE,45.0,38.0,63.0,87.0,2,48.67,D,Placed
+STU0722,Rahul,Male,23,Visakhapatnam,CSE,47.0,38.0,96.0,87.0,1,60.33,C,Not Placed
+STU0723,Vijay,Male,19,Guntur,ECE,78.0,41.0,77.0,93.0,4,65.33,C,Placed
+STU0724,Deepika,Female,19,Guntur,Civil,50.0,45.0,42.0,62.0,7,45.67,D,Not Placed
+STU0725,Arjun,Male,18,Guntur,CSE,73.0,90.0,43.0,66.0,1,68.67,C,Placed
+STU0726,Pooja,Female,24,Hyderabad,Civil,87.0,64.0,36.0,89.0,7,62.33,C,Not Placed
+STU0727,Suresh,Male,23,Hyderabad,Mechanical,77.0,59.0,48.0,66.0,1,61.33,C,Placed
+STU0728,Varun,Male,20,Warangal,EEE,80.0,88.0,96.0,99.0,8,88.0,A,Placed
+STU0729,Meena,Male,18,Hyderabad,ECE,74.0,90.0,100.0,82.0,5,88.0,A,Placed
+STU0730,Sneha,Female,22,Warangal,EEE,72.0,82.0,36.0,93.0,3,63.33,C,Placed
+STU0731,Meena,Male,24,Visakhapatnam,ECE,60.0,60.0,43.0,81.0,4,54.33,C,Not Placed
+STU0732,Nikhil,Female,23,Warangal,EEE,88.0,77.0,55.0,66.0,8,73.33,B,Placed
+STU0733,Keerthi,Male,18,Vijayawada,ECE,94.0,62.0,65.0,90.0,6,73.67,B,Not Placed
+STU0734,Rahul,Female,20,Hyderabad,EEE,36.0,44.0,80.0,61.0,2,53.33,C,Placed
+STU0735,Pooja,Female,21,Warangal,EEE,40.0,38.0,60.0,72.0,5,46.0,D,Placed
+STU0736,Meena,Female,20,Visakhapatnam,Civil,66.0,57.0,60.0,61.0,3,61.0,C,Not Placed
+STU0737,Kiran,Male,20,Guntur,CSE,78.0,61.0,74.0,89.0,4,71.0,B,Not Placed
+STU0738,Divya,Male,24,Hyderabad,CSE,53.0,51.0,59.0,72.0,7,54.33,C,Not Placed
+STU0739,Akhil,Female,21,Hyderabad,Civil,59.0,72.0,54.0,80.0,4,61.67,C,Placed
+STU0740,Vijay,Male,25,Vijayawada,CSE,95.0,43.0,56.0,92.0,7,64.67,C,Not Placed
+STU0741,Keerthi,Female,20,Visakhapatnam,EEE,96.0,98.0,95.0,77.0,7,96.33,A,Placed
+STU0742,Rahul,Male,21,Guntur,ECE,85.0,62.0,74.0,87.0,7,73.67,B,Placed
+STU0743,Divya,Female,19,Vijayawada,CSE,72.0,91.0,80.0,74.0,1,81.0,B,Not Placed
+STU0744,Manoj,Female,24,Guntur,Mechanical,90.0,87.0,82.0,91.0,6,86.33,A,Not Placed
+STU0745,Ramesh,Male,20,Guntur,ECE,68.0,44.0,80.0,65.0,5,64.0,C,Placed
+STU0746,Vijay,Male,19,Hyderabad,CSE,81.0,39.0,60.0,81.0,4,60.0,C,Not Placed
+STU0747,Vijay,Female,22,Vijayawada,Civil,52.0,68.0,36.0,79.0,5,52.0,C,Not Placed
+STU0748,Ramesh,Female,18,Guntur,Civil,54.0,85.0,64.0,74.0,4,67.67,C,Not Placed
+STU0749,Meena,Female,25,Visakhapatnam,CSE,75.0,59.0,89.0,86.0,4,74.33,B,Not Placed
+STU0750,Nikhil,Male,23,Vijayawada,Civil,51.0,74.0,36.0,91.0,6,53.67,C,Not Placed
+STU0751,Meena,Female,24,Guntur,Civil,73.0,76.0,37.0,96.0,1,62.0,C,Placed
+STU0752,Sneha,Female,24,Guntur,ECE,85.0,43.0,84.0,72.0,8,70.67,B,Placed
+STU0753,Akhil,Female,22,Hyderabad,ECE,48.0,57.0,39.0,98.0,8,48.0,D,Placed
+STU0754,Anu,Male,19,Guntur,EEE,61.0,64.0,72.0,93.0,2,65.67,C,Not Placed
+STU0755,Priya,Female,18,Vijayawada,EEE,87.0,85.0,55.0,67.0,3,75.67,B,Not Placed
+STU0756,Keerthi,Male,24,Vijayawada,ECE,61.0,74.0,90.0,90.0,3,75.0,B,Not Placed
+STU0757,Varun,Male,25,Visakhapatnam,ECE,35.0,53.0,92.0,64.0,7,60.0,C,Placed
+STU0758,Manoj,Female,25,Guntur,Mechanical,40.0,46.0,71.0,89.0,6,52.33,C,Not Placed
+STU0759,Ramesh,Male,24,Vijayawada,ECE,90.0,93.0,84.0,71.0,2,89.0,A,Not Placed
+STU0760,Priya,Male,20,Visakhapatnam,Civil,72.0,43.0,62.0,91.0,7,59.0,C,Placed
+STU0761,Divya,Male,19,Warangal,EEE,87.0,92.0,56.0,76.0,4,78.33,B,Placed
+STU0762,Nikhil,Male,19,Guntur,Mechanical,78.0,86.0,59.0,85.0,1,74.33,B,Placed
+STU0763,Vijay,Male,20,Visakhapatnam,Mechanical,97.0,94.0,43.0,65.0,4,78.0,B,Not Placed
+STU0764,Sneha,Female,22,Vijayawada,ECE,37.0,47.0,57.0,78.0,2,47.0,D,Not Placed
+STU0765,Anu,Male,18,Visakhapatnam,ECE,91.0,80.0,57.0,73.0,1,76.0,B,Placed
+STU0766,Nikhil,Male,19,Guntur,EEE,91.0,41.0,35.0,63.0,7,55.67,C,Placed
+STU0767,Meena,Female,21,Vijayawada,CSE,37.0,88.0,38.0,60.0,6,54.33,C,Placed
+STU0768,Arjun,Male,19,Vijayawada,ECE,40.0,88.0,100.0,66.0,6,76.0,B,Not Placed
+STU0769,Teja,Male,21,Warangal,Mechanical,89.0,50.0,64.0,73.0,2,67.67,C,Not Placed
+STU0770,Akhil,Male,18,Guntur,EEE,36.0,84.0,62.0,89.0,4,60.67,C,Placed
+STU0771,Vijay,Female,18,Hyderabad,ECE,87.0,73.0,98.0,66.0,3,86.0,A,Not Placed
+STU0772,Kiran,Female,24,Vijayawada,EEE,57.0,75.0,96.0,64.0,6,76.0,B,Placed
+STU0773,Deepika,Female,24,Warangal,ECE,99.0,36.0,64.0,61.0,2,66.33,C,Not Placed
+STU0774,Meena,Female,21,Warangal,CSE,42.0,52.0,82.0,91.0,5,58.67,C,Placed
+STU0775,Sneha,Female,21,Hyderabad,ECE,91.0,77.0,52.0,77.0,6,73.33,B,Placed
+STU0776,Manoj,Female,22,Hyderabad,ECE,498.0,78.0,66.0,73.0,1,73.67,B,Placed
+STU0777,Meena,Female,23,Vijayawada,Mechanical,35.0,43.0,97.0,64.0,4,58.33,C,Placed
+STU0778,Sneha,Male,20,Hyderabad,ECE,61.0,65.0,99.0,65.0,7,75.0,B,Not Placed
+STU0779,Pooja,Male,21,Vijayawada,Mechanical,57.0,66.0,73.0,78.0,8,65.33,C,Placed
+STU0780,Vijay,Female,19,Visakhapatnam,Mechanical,83.0,56.0,95.0,88.0,7,78.0,B,Not Placed
+STU0781,Sneha,Female,18,Guntur,Mechanical,240.0,73.0,54.0,95.0,3,57.33,C,Not Placed
+STU0782,Ramesh,Female,22,Guntur,EEE,83.0,96.0,44.0,81.0,3,74.33,B,Not Placed
+STU0783,Rahul,Male,21,Hyderabad,CSE,99.0,82.0,97.0,85.0,7,92.67,A,Not Placed
+STU0784,Divya,Female,25,Visakhapatnam,Civil,44.0,87.0,39.0,67.0,7,56.67,C,Placed
+STU0785,Rahul,Female,22,Visakhapatnam,Civil,97.0,82.0,42.0,84.0,7,73.67,B,Placed
+STU0786,Meena,Female,18,Visakhapatnam,CSE,53.0,68.0,93.0,69.0,5,71.33,B,Placed
+STU0787,Deepika,Male,18,Hyderabad,CSE,84.0,85.0,45.0,93.0,4,71.33,B,Not Placed
+STU0788,Anu,Female,22,Visakhapatnam,Civil,83.0,74.0,87.0,65.0,2,81.33,B,Not Placed
+STU0789,Sneha,Female,21,Guntur,EEE,35.0,56.0,97.0,60.0,2,62.67,C,Placed
+STU0790,Suresh,Female,22,Guntur,ECE,57.0,82.0,,68.0,4,65.67,C,Not Placed
+STU0791,Anu,Male,25,Warangal,ECE,58.0,60.0,42.0,71.0,4,53.33,C,Not Placed
+STU0792,Suresh,Female,19,Vijayawada,CSE,72.0,45.0,83.0,67.0,5,66.67,C,Placed
+STU0793,Akhil,Male,21,Guntur,Mechanical,47.0,36.0,42.0,77.0,1,41.67,D,Placed
+STU0794,Kiran,Male,18,Guntur,Civil,69.0,97.0,95.0,81.0,7,87.0,A,Not Placed
+STU0795,Divya,Female,23,Vijayawada,EEE,86.0,83.0,42.0,82.0,6,70.33,B,Placed
+STU0796,Ravi,Female,24,Vijayawada,CSE,50.0,70.0,66.0,83.0,8,62.0,C,Not Placed
+STU0797,Manoj,Female,21,Hyderabad,EEE,37.0,81.0,40.0,80.0,8,52.67,C,Placed
+STU0798,Deepika,Female,24,Warangal,CSE,79.0,89.0,95.0,66.0,7,87.67,A,Not Placed
+STU0799,Deepika,Male,20,Warangal,Civil,99.0,39.0,51.0,91.0,2,63.0,C,Not Placed
+STU0800,Teja,Female,20,Guntur,CSE,96.0,65.0,66.0,73.0,3,75.67,B,Placed
+STU0801,Kiran,Female,18,Vijayawada,EEE,84.0,70.0,63.0,76.0,8,72.33,B,Placed
+STU0802,Sneha,Female,19,Visakhapatnam,ECE,,78.0,83.0,84.0,7,68.0,C,Placed
+STU0803,Meena,Female,19,Visakhapatnam,CSE,49.0,46.0,78.0,97.0,4,57.67,C,Placed
+STU0804,Varun,Female,20,Visakhapatnam,Mechanical,35.0,74.0,42.0,97.0,4,50.33,C,Not Placed
+STU0805,Suresh,Female,23,Vijayawada,Civil,63.0,48.0,85.0,60.0,8,65.33,C,Not Placed
+STU0806,Sneha,Female,21,Guntur,Mechanical,53.0,71.0,53.0,62.0,6,59.0,C,Not Placed
+STU0807,Manoj,Male,22,Warangal,Mechanical,62.0,98.0,72.0,84.0,1,77.33,B,Not Placed
+STU0808,Sneha,Male,21,Hyderabad,ECE,97.0,85.0,73.0,70.0,1,85.0,A,Not Placed
+STU0809,Akhil,Female,25,Visakhapatnam,Mechanical,85.0,44.0,71.0,78.0,4,66.67,C,Not Placed
+STU0810,Kiran,Male,23,Warangal,CSE,73.0,93.0,55.0,96.0,3,73.67,B,Not Placed
+STU0811,Keerthi,Female,20,Vijayawada,ECE,60.0,36.0,81.0,96.0,2,59.0,C,Placed
+STU0812,Ramesh,Female,20,Hyderabad,CSE,80.0,95.0,57.0,63.0,2,77.33,B,Not Placed
+STU0813,Varun,Female,20,Guntur,ECE,39.0,50.0,65.0,85.0,8,51.33,C,Not Placed
+STU0814,Deepika,Male,24,Hyderabad,Mechanical,83.0,70.0,91.0,83.0,1,81.33,B,Placed
+STU0815,Kiran,Male,19,Guntur,Civil,63.0,37.0,96.0,77.0,2,65.33,C,Placed
+STU0816,Ramesh,Female,24,Visakhapatnam,Civil,51.0,47.0,76.0,64.0,3,58.0,C,Not Placed
+STU0817,Ravi,Female,25,Hyderabad,Civil,50.0,61.0,50.0,71.0,3,53.67,C,Placed
+STU0818,Teja,Female,23,Hyderabad,CSE,51.0,61.0,55.0,65.0,5,55.67,C,Placed
+STU0819,Arjun,Male,22,Visakhapatnam,Civil,56.0,89.0,35.0,75.0,5,60.0,C,Placed
+STU0820,Manoj,Female,25,Vijayawada,Civil,97.0,75.0,80.0,98.0,4,84.0,B,Placed
+STU0821,Priya,Male,18,Vijayawada,ECE,73.0,62.0,52.0,98.0,4,62.33,C,Not Placed
+STU0822,Vijay,Male,24,Hyderabad,Civil,67.0,68.0,83.0,70.0,7,72.67,B,Not Placed
+STU0823,Arjun,Female,24,Vijayawada,Civil,61.0,44.0,69.0,100.0,4,58.0,C,Not Placed
+STU0824,Varun,Male,24,Vijayawada,EEE,90.0,83.0,38.0,98.0,4,70.33,B,Placed
+STU0825,Vijay,Male,19,Warangal,Mechanical,43.0,77.0,46.0,83.0,6,55.33,C,Not Placed
+STU0826,Sneha,Male,22,Hyderabad,CSE,83.0,63.0,83.0,66.0,2,76.33,B,Placed
+STU0827,Manoj,Female,25,Hyderabad,Civil,,71.0,69.0,98.0,2,73.0,B,Placed
+STU0828,Anu,Female,24,Vijayawada,EEE,86.0,96.0,51.0,76.0,1,77.67,B,Placed
+STU0829,Sneha,Male,24,Warangal,EEE,41.0,82.0,66.0,98.0,7,63.0,C,Not Placed
+STU0830,Anu,Female,23,Guntur,Civil,71.0,,89.0,93.0,4,76.67,B,Not Placed
+STU0831,Arjun,Female,24,Visakhapatnam,CSE,45.0,44.0,65.0,65.0,3,51.33,C,Placed
+STU0832,Arjun,Female,25,Hyderabad,Mechanical,100.0,52.0,96.0,91.0,2,82.67,B,Not Placed
+STU0833,Ravi,Male,18,Guntur,Civil,79.0,66.0,40.0,98.0,8,61.67,C,Placed
+STU0834,Manoj,Male,20,Hyderabad,EEE,52.0,100.0,80.0,63.0,7,77.33,B,Not Placed
+STU0835,Ramesh,Male,23,Hyderabad,EEE,66.0,50.0,72.0,79.0,8,62.67,C,Not Placed
+STU0836,Vijay,Male,18,Warangal,Mechanical,62.0,74.0,100.0,62.0,8,78.67,B,Not Placed
+STU0837,Priya,Female,18,Warangal,Mechanical,77.0,73.0,80.0,66.0,1,76.67,B,Not Placed
+STU0838,Anu,Female,23,Hyderabad,CSE,90.0,97.0,60.0,65.0,3,82.33,B,Not Placed
+STU0839,Kiran,Female,18,Vijayawada,EEE,63.0,95.0,85.0,83.0,5,81.0,B,Not Placed
+STU0840,Suresh,Male,22,Hyderabad,Mechanical,91.0,55.0,52.0,82.0,7,66.0,C,Placed
+STU0841,Divya,Male,19,Vijayawada,EEE,40.0,52.0,85.0,86.0,6,59.0,C,Placed
+STU0842,Anu,Male,25,Visakhapatnam,CSE,88.0,97.0,98.0,68.0,6,94.33,A,Not Placed
+STU0843,Manoj,Female,20,Hyderabad,CSE,37.0,51.0,54.0,82.0,1,47.33,D,Placed
+STU0844,Priya,Female,24,Warangal,CSE,90.0,96.0,72.0,78.0,8,86.0,A,Placed
+STU0845,Suresh,Male,20,Warangal,ECE,66.0,70.0,49.0,76.0,4,61.67,C,Not Placed
+STU0846,Rahul,Female,19,Warangal,Civil,58.0,59.0,54.0,74.0,2,57.0,C,Placed
+STU0847,Ramesh,Male,22,Vijayawada,ECE,89.0,37.0,60.0,65.0,1,62.0,C,Not Placed
+STU0848,Suresh,Female,21,Vijayawada,EEE,89.0,96.0,42.0,92.0,7,75.67,B,Placed
+STU0849,Pooja,Male,22,Visakhapatnam,EEE,79.0,88.0,66.0,80.0,1,77.67,B,Placed
+STU0850,Priya,Male,18,Visakhapatnam,ECE,71.0,95.0,70.0,,2,78.67,B,Not Placed
+STU0851,Anu,Female,25,Visakhapatnam,EEE,73.0,49.0,47.0,60.0,3,56.33,C,Not Placed
+STU0852,Divya,Female,23,Vijayawada,EEE,61.0,84.0,46.0,66.0,3,63.67,C,Placed
+STU0853,Priya,Male,21,Guntur,CSE,44.0,78.0,73.0,90.0,4,65.0,C,Placed
+STU0854,Priya,Male,21,Guntur,Civil,67.0,79.0,81.0,88.0,2,75.67,B,Not Placed
+STU0855,Arjun,Female,24,Warangal,Civil,37.0,56.0,70.0,68.0,5,54.33,C,Placed
+STU0856,Varun,Male,21,Guntur,Mechanical,100.0,44.0,56.0,88.0,7,66.67,C,Not Placed
+STU0857,Ramesh,Female,21,Vijayawada,CSE,475.0,62.0,,92.0,8,51.0,C,Not Placed
+STU0858,Pooja,Male,22,Visakhapatnam,Civil,50.0,56.0,63.0,62.0,4,56.33,C,Not Placed
+STU0859,Priya,Male,22,Vijayawada,EEE,41.0,66.0,61.0,94.0,2,56.0,C,Placed
+STU0860,Divya,Female,23,Hyderabad,Civil,68.0,52.0,87.0,99.0,5,69.0,C,Not Placed
+STU0861,Priya,Male,23,Vijayawada,EEE,57.0,67.0,37.0,94.0,2,53.67,C,Not Placed
+STU0862,Vijay,Male,25,Vijayawada,EEE,69.0,61.0,85.0,69.0,8,71.67,B,Placed
+STU0863,Suresh,Female,20,Guntur,CSE,98.0,58.0,93.0,71.0,3,83.0,B,Placed
+STU0864,Varun,Female,20,Visakhapatnam,CSE,74.0,55.0,57.0,85.0,4,62.0,C,Placed
+STU0865,Sneha,Male,24,Vijayawada,Mechanical,86.0,47.0,52.0,60.0,2,61.67,C,Not Placed
+STU0866,Ramesh,Male,19,Hyderabad,CSE,51.0,66.0,45.0,77.0,3,54.0,C,Placed
+STU0867,Ravi,Male,23,Hyderabad,ECE,52.0,96.0,91.0,70.0,5,79.67,B,Not Placed
+STU0868,Keerthi,Male,21,Hyderabad,Civil,69.0,,37.0,62.0,2,52.0,C,Not Placed
+STU0869,Kiran,Female,20,Hyderabad,ECE,38.0,64.0,89.0,84.0,3,63.67,C,Not Placed
+STU0870,Pooja,Male,24,Hyderabad,Mechanical,56.0,49.0,63.0,66.0,5,56.0,C,Not Placed
+STU0871,Arjun,Female,19,Visakhapatnam,CSE,40.0,54.0,57.0,87.0,6,50.33,C,Placed
+STU0872,Suresh,Male,22,Warangal,EEE,79.0,48.0,69.0,91.0,6,65.33,C,Not Placed
+STU0873,Arjun,Male,20,Vijayawada,EEE,53.0,84.0,92.0,90.0,2,76.33,B,Placed
+STU0874,Varun,Female,22,Vijayawada,CSE,76.0,51.0,58.0,84.0,6,61.67,C,Not Placed
+STU0875,Keerthi,Female,25,Guntur,Civil,77.0,52.0,66.0,84.0,7,65.0,C,Not Placed
+STU0876,Teja,Female,21,Guntur,CSE,88.0,63.0,46.0,,6,65.67,C,Placed
+STU0877,Rahul,Male,23,Warangal,Mechanical,52.0,49.0,42.0,82.0,6,47.67,D,Placed
+STU0878,Pooja,Female,20,Warangal,Mechanical,66.0,61.0,63.0,63.0,3,63.33,C,Placed
+STU0879,Sneha,Female,18,Guntur,EEE,41.0,48.0,44.0,90.0,3,44.33,D,Placed
+STU0880,Sneha,Female,20,Hyderabad,ECE,44.0,36.0,88.0,,3,56.0,C,Not Placed
+STU0881,Sneha,Female,25,Guntur,EEE,91.0,36.0,71.0,67.0,3,66.0,C,Placed
+STU0882,Priya,Male,20,Hyderabad,Mechanical,89.0,93.0,68.0,96.0,5,83.33,B,Placed
+STU0883,Suresh,Male,22,Hyderabad,Civil,83.0,51.0,62.0,85.0,1,65.33,C,Placed
+STU0884,Ramesh,Male,19,Guntur,Mechanical,75.0,86.0,83.0,,1,81.33,B,Not Placed
+STU0885,Suresh,Male,22,Hyderabad,CSE,44.0,81.0,77.0,61.0,4,67.33,C,Not Placed
+STU0886,Anu,Male,19,Vijayawada,Civil,36.0,74.0,59.0,95.0,4,56.33,C,Placed
+STU0887,Meena,Female,19,Warangal,Civil,40.0,96.0,40.0,,6,58.67,C,Placed
+STU0888,Pooja,Male,23,Visakhapatnam,Mechanical,99.0,59.0,75.0,85.0,6,77.67,B,Placed
+STU0889,Kiran,Female,24,Warangal,CSE,99.0,54.0,38.0,97.0,7,63.67,C,Not Placed
+STU0890,Varun,Male,22,Vijayawada,ECE,94.0,45.0,46.0,74.0,4,61.67,C,Placed
+STU0891,Anu,Female,25,Vijayawada,EEE,72.0,81.0,90.0,62.0,7,81.0,B,Placed
+STU0892,Rahul,Male,20,Warangal,Mechanical,47.0,36.0,53.0,79.0,2,45.33,D,Not Placed
+STU0893,Kiran,Female,23,Vijayawada,EEE,55.0,43.0,70.0,96.0,6,56.0,C,Not Placed
+STU0894,Arjun,Male,20,Guntur,EEE,95.0,67.0,91.0,68.0,2,84.33,B,Not Placed
+STU0895,Priya,Female,22,Guntur,Mechanical,51.0,91.0,81.0,92.0,6,74.33,B,Not Placed
+STU0896,Arjun,Female,25,Visakhapatnam,CSE,42.0,66.0,36.0,69.0,2,48.0,D,Not Placed
+STU0897,Ramesh,Male,24,Hyderabad,ECE,84.0,94.0,,82.0,8,74.67,B,Not Placed
+STU0898,Teja,Female,19,Hyderabad,ECE,48.0,85.0,90.0,72.0,7,74.33,B,Not Placed
+STU0899,Arjun,Female,23,Warangal,Mechanical,62.0,95.0,49.0,77.0,8,68.67,C,Placed
+STU0900,Teja,Male,25,Vijayawada,ECE,75.0,39.0,83.0,63.0,6,65.67,C,Not Placed
+STU0901,Keerthi,Male,18,Vijayawada,CSE,89.0,69.0,67.0,100.0,3,75.0,B,Placed
+STU0902,Sneha,Male,22,Guntur,CSE,73.0,92.0,88.0,93.0,4,84.33,B,Not Placed
+STU0903,Anu,Male,19,Guntur,EEE,73.0,56.0,60.0,82.0,7,63.0,C,Not Placed
+STU0904,Keerthi,Male,24,Visakhapatnam,Civil,362.0,36.0,60.0,64.0,3,60.0,C,Not Placed
+STU0905,Akhil,Male,20,Guntur,ECE,98.0,75.0,49.0,86.0,5,74.0,B,Placed
+STU0906,Nikhil,Male,25,Warangal,CSE,39.0,62.0,59.0,86.0,3,53.33,C,Not Placed
+STU0907,Rahul,Female,21,Vijayawada,Civil,36.0,82.0,81.0,61.0,5,66.33,C,Not Placed
+STU0908,Manoj,Male,25,Guntur,Mechanical,87.0,80.0,80.0,94.0,7,82.33,B,Not Placed
+STU0909,Kiran,Male,25,Guntur,EEE,57.0,55.0,90.0,84.0,5,67.33,C,Not Placed
+STU0910,Pooja,Male,19,Hyderabad,CSE,37.0,87.0,48.0,91.0,2,57.33,C,Not Placed
+STU0911,Manoj,Male,22,Guntur,ECE,63.0,93.0,83.0,67.0,4,79.67,B,Not Placed
+STU0912,Kiran,Female,25,Guntur,Mechanical,35.0,82.0,63.0,92.0,5,60.0,C,Not Placed
+STU0913,Vijay,Female,24,Vijayawada,CSE,88.0,39.0,36.0,61.0,3,54.33,C,Not Placed
+STU0914,Manoj,Female,23,Vijayawada,Civil,90.0,65.0,85.0,72.0,7,80.0,B,Placed
+STU0915,Varun,Female,20,Guntur,ECE,86.0,75.0,55.0,87.0,4,72.0,B,Placed
+STU0916,Sneha,Male,24,Visakhapatnam,Civil,55.0,76.0,61.0,65.0,2,64.0,C,Placed
+STU0917,Suresh,Male,20,Hyderabad,Civil,45.0,83.0,38.0,68.0,8,55.33,C,Not Placed
+STU0918,Anu,Male,21,Visakhapatnam,ECE,66.0,83.0,68.0,63.0,5,72.33,B,Placed
+STU0919,Sneha,Male,19,Hyderabad,Mechanical,50.0,48.0,,78.0,5,50.33,C,Placed
+STU0920,Arjun,Male,25,Visakhapatnam,ECE,85.0,47.0,97.0,61.0,7,76.33,B,Placed
+STU0921,Keerthi,Male,21,Guntur,Mechanical,75.0,92.0,55.0,71.0,5,74.0,B,Placed
+STU0922,Anu,Male,19,Visakhapatnam,EEE,96.0,35.0,55.0,93.0,5,62.0,C,Placed
+STU0923,Rahul,Male,18,Warangal,Civil,54.0,62.0,81.0,67.0,4,65.67,C,Placed
+STU0924,Akhil,Male,21,Hyderabad,ECE,69.0,70.0,96.0,72.0,2,78.33,B,Not Placed
+STU0925,Teja,Female,25,Guntur,Mechanical,100.0,86.0,59.0,76.0,3,81.67,B,Placed
+STU0926,Vijay,Female,19,Warangal,Civil,74.0,56.0,61.0,91.0,7,63.67,C,Not Placed
+STU0927,Suresh,Female,23,Warangal,CSE,84.0,89.0,60.0,96.0,6,77.67,B,Not Placed
+STU0928,Arjun,Female,20,Hyderabad,Civil,67.0,87.0,72.0,98.0,6,75.33,B,Not Placed
+STU0929,Ravi,Male,20,Visakhapatnam,Mechanical,58.0,80.0,66.0,64.0,4,68.0,C,Not Placed
+STU0930,Divya,Male,23,Hyderabad,CSE,75.0,36.0,77.0,73.0,8,62.67,C,Not Placed
+STU0931,Meena,Male,24,Visakhapatnam,Civil,62.0,62.0,48.0,95.0,5,57.33,C,Placed
+STU0932,Varun,Female,24,Visakhapatnam,EEE,60.0,60.0,,91.0,8,53.67,C,Placed
+STU0933,Vijay,Female,19,Hyderabad,Mechanical,56.0,76.0,84.0,75.0,1,72.0,B,Not Placed
+STU0934,Ravi,Male,25,Visakhapatnam,ECE,86.0,39.0,40.0,81.0,1,55.0,C,Placed
+STU0935,Keerthi,Male,24,Visakhapatnam,EEE,75.0,79.0,86.0,65.0,6,80.0,B,Not Placed
+STU0936,Deepika,Male,24,Visakhapatnam,Mechanical,98.0,50.0,82.0,99.0,2,76.67,B,Placed
+STU0937,Meena,Male,18,Vijayawada,CSE,76.0,90.0,63.0,70.0,2,76.33,B,Placed
+STU0938,Divya,Male,18,Visakhapatnam,CSE,49.0,41.0,73.0,64.0,5,54.33,C,Not Placed
+STU0939,Deepika,Female,22,Vijayawada,ECE,93.0,50.0,51.0,80.0,3,64.67,C,Not Placed
+STU0940,Nikhil,Male,21,Warangal,Mechanical,97.0,70.0,76.0,90.0,4,81.0,B,Placed
+STU0941,Vijay,Female,19,Visakhapatnam,Civil,66.0,61.0,44.0,64.0,8,57.0,C,Placed
+STU0942,Rahul,Male,21,Guntur,Mechanical,59.0,97.0,48.0,81.0,4,68.0,C,Not Placed
+STU0943,Pooja,Female,20,Warangal,CSE,51.0,63.0,81.0,84.0,8,65.0,C,Placed
+STU0944,Ramesh,Male,19,Visakhapatnam,Mechanical,56.0,74.0,48.0,69.0,8,59.33,C,Placed
+STU0945,Kiran,Male,18,Guntur,ECE,69.0,38.0,,93.0,8,67.33,C,Not Placed
+STU0946,Vijay,Male,19,Visakhapatnam,Mechanical,62.0,54.0,85.0,92.0,7,67.0,C,Not Placed
+STU0947,Priya,Female,22,Visakhapatnam,CSE,41.0,83.0,89.0,72.0,5,71.0,B,Placed
+STU0948,Ramesh,Male,22,Warangal,Civil,98.0,90.0,48.0,63.0,4,78.67,B,Placed
+STU0949,Meena,Male,18,Hyderabad,Civil,69.0,65.0,43.0,94.0,2,59.0,C,Not Placed
+STU0950,Meena,Female,24,Guntur,CSE,63.0,69.0,98.0,73.0,3,76.67,B,Placed
+STU0951,Divya,Female,22,Hyderabad,CSE,58.0,99.0,96.0,79.0,4,84.33,B,Placed
+STU0952,Akhil,Male,20,Vijayawada,EEE,93.0,53.0,36.0,90.0,7,60.67,C,Not Placed
+STU0953,Ravi,Male,22,Hyderabad,ECE,36.0,80.0,95.0,97.0,1,70.33,B,Not Placed
+STU0954,Meena,Female,19,Hyderabad,CSE,72.0,64.0,99.0,70.0,3,78.33,B,Placed
+STU0955,Kiran,Female,23,Guntur,Mechanical,79.0,67.0,97.0,76.0,6,81.0,B,Not Placed
+STU0956,Ravi,Female,22,Visakhapatnam,Civil,96.0,49.0,69.0,93.0,1,71.33,B,Placed
+STU0957,Suresh,Male,20,Visakhapatnam,Mechanical,38.0,66.0,90.0,83.0,4,64.67,C,Placed
+STU0958,Rahul,Female,19,Visakhapatnam,Civil,92.0,57.0,68.0,82.0,6,72.33,B,Not Placed
+STU0959,Varun,Female,22,Visakhapatnam,ECE,40.0,78.0,50.0,87.0,8,56.0,C,Not Placed
+STU0960,Pooja,Male,18,Guntur,ECE,,54.0,72.0,99.0,3,73.33,B,Not Placed
+STU0961,Keerthi,Female,19,Visakhapatnam,CSE,93.0,40.0,62.0,78.0,2,65.0,C,Placed
+STU0962,Keerthi,Female,18,Guntur,EEE,35.0,41.0,67.0,68.0,6,47.67,D,Not Placed
+STU0963,Manoj,Male,19,Visakhapatnam,ECE,60.0,90.0,45.0,78.0,4,65.0,C,Placed
+STU0964,Keerthi,Female,21,Guntur,Mechanical,86.0,47.0,68.0,79.0,5,67.0,C,Placed
+STU0965,Varun,Female,23,Warangal,ECE,60.0,67.0,52.0,86.0,4,59.67,C,Not Placed
+STU0966,Pooja,Male,22,Warangal,Mechanical,58.0,83.0,90.0,66.0,3,77.0,B,Not Placed
+STU0967,Akhil,Female,25,Visakhapatnam,Mechanical,94.0,88.0,87.0,89.0,1,89.67,A,Placed
+STU0968,Suresh,Male,20,Warangal,EEE,66.0,100.0,82.0,68.0,5,82.67,B,Placed
+STU0969,Ramesh,Male,24,Hyderabad,Mechanical,93.0,41.0,45.0,63.0,5,59.67,C,Placed
+STU0970,Akhil,Male,22,Warangal,Mechanical,77.0,42.0,50.0,97.0,1,56.33,C,Placed
+STU0971,Manoj,Male,25,Vijayawada,ECE,54.0,73.0,74.0,60.0,8,67.0,C,Placed
+STU0972,Kiran,Male,18,Vijayawada,Civil,50.0,47.0,66.0,73.0,2,54.33,C,Not Placed
+STU0973,Ravi,Female,24,Hyderabad,CSE,73.0,86.0,96.0,71.0,4,85.0,A,Not Placed
+STU0974,Deepika,Female,19,Guntur,ECE,37.0,58.0,53.0,75.0,3,49.33,D,Placed
+STU0975,Keerthi,Female,22,Visakhapatnam,CSE,98.0,82.0,70.0,85.0,7,83.33,B,Placed
+STU0976,Nikhil,Female,24,Vijayawada,CSE,71.0,93.0,,96.0,7,71.33,B,Placed
+STU0977,Varun,Female,18,Warangal,Mechanical,,80.0,52.0,89.0,8,57.33,C,Not Placed
+STU0978,Ravi,Male,23,Warangal,Civil,61.0,79.0,84.0,92.0,2,74.67,B,Placed
+STU0979,Sneha,Female,23,Guntur,ECE,70.0,73.0,85.0,64.0,8,76.0,B,Not Placed
+STU0980,Keerthi,Male,22,Vijayawada,EEE,79.0,86.0,43.0,62.0,1,69.33,C,Placed
+STU0981,Meena,Male,19,Guntur,Mechanical,76.0,64.0,65.0,66.0,3,68.33,C,Not Placed
+STU0982,Suresh,Male,18,Warangal,EEE,49.0,39.0,44.0,88.0,6,44.0,D,Placed
+STU0983,Anu,Female,19,Guntur,Mechanical,52.0,60.0,60.0,76.0,8,57.33,C,Not Placed
+STU0984,Pooja,Male,21,Vijayawada,Mechanical,59.0,46.0,38.0,100.0,2,47.67,D,Placed
+STU0985,Priya,Male,18,Visakhapatnam,Mechanical,44.0,78.0,58.0,93.0,8,60.0,C,Placed
+STU0986,Rahul,Female,23,Visakhapatnam,Civil,52.0,43.0,91.0,87.0,7,62.0,C,Placed
+STU0987,Varun,Male,20,Warangal,EEE,47.0,50.0,98.0,74.0,1,65.0,C,Not Placed
+STU0988,Ravi,Male,22,Visakhapatnam,Mechanical,80.0,43.0,55.0,78.0,2,59.33,C,Placed
+STU0989,Manoj,Female,24,Warangal,CSE,49.0,95.0,68.0,61.0,1,70.67,B,Not Placed
+STU0990,Suresh,Female,21,Visakhapatnam,CSE,52.0,61.0,77.0,63.0,4,63.33,C,Not Placed
+STU0991,Arjun,Male,23,Hyderabad,Mechanical,45.0,96.0,51.0,77.0,1,64.0,C,Placed
+STU0992,Priya,Female,21,Visakhapatnam,Mechanical,96.0,73.0,64.0,61.0,1,77.67,B,Placed
+STU0993,Rahul,Female,18,Warangal,Mechanical,41.0,84.0,83.0,68.0,7,69.33,C,Not Placed
+STU0994,Teja,Male,19,Guntur,CSE,82.0,80.0,59.0,81.0,7,73.67,B,Placed
+STU0995,Meena,Male,19,Warangal,CSE,64.0,87.0,40.0,60.0,4,63.67,C,Placed
+STU0996,Arjun,Male,20,Guntur,ECE,71.0,40.0,75.0,82.0,4,62.0,C,Not Placed
+STU0997,Sneha,Female,25,Hyderabad,CSE,44.0,67.0,61.0,91.0,6,57.33,C,Placed
+STU0998,Nikhil,Female,23,Warangal,EEE,66.0,69.0,75.0,94.0,2,70.0,B,Placed
+STU0999,Divya,Female,25,Visakhapatnam,CSE,61.0,52.0,,79.0,4,59.0,C,Placed
+STU1000,Divya,Male,18,Vijayawada,Mechanical,93.0,49.0,37.0,91.0,1,59.67,C,Not Placed
+STU0522,Ramesh,Female,21,Vijayawada,Mechanical,35.0,98.0,65.0,92.0,5,66.0,C,Not Placed
+STU0738,Divya,Male,24,Hyderabad,CSE,53.0,51.0,59.0,72.0,7,54.33,C,Not Placed
+STU0741,Keerthi,Female,20,Visakhapatnam,EEE,96.0,98.0,95.0,77.0,7,96.33,A,Placed
+STU0661,Deepika,Male,24,Guntur,CSE,40.0,100.0,78.0,89.0,4,72.67,B,Placed
+STU0412,Varun,Female,25,Vijayawada,Civil,70.0,85.0,63.0,96.0,3,72.67,B,Placed
+STU0679,Priya,Female,20,Warangal,Civil,48.0,41.0,91.0,89.0,2,60.0,C,Placed
+STU0627,Vijay,Female,20,Visakhapatnam,Civil,65.0,86.0,65.0,67.0,3,72.0,B,Placed
+STU0514,Arjun,Female,19,Warangal,Civil,94.0,76.0,47.0,88.0,3,72.33,B,Not Placed
+STU0860,Divya,Female,23,Hyderabad,Civil,68.0,52.0,87.0,99.0,5,69.0,C,Not Placed
+STU0137,Manoj,Female,21,Guntur,CSE,82.0,63.0,38.0,80.0,2,61.0,C,Not Placed
+STU0812,Ramesh,Female,20,Hyderabad,CSE,80.0,95.0,57.0,63.0,2,77.33,B,Not Placed
+STU0077,Nikhil,Male,21,Visakhapatnam,Civil,51.0,71.0,91.0,91.0,2,71.0,B,Placed
+STU0637,Suresh,Female,24,Hyderabad,ECE,,99.0,43.0,82.0,7,70.0,B,Not Placed
+STU0974,Deepika,Female,19,Guntur,ECE,37.0,58.0,53.0,75.0,3,49.33,D,Placed
+STU0939,Deepika,Female,22,Vijayawada,ECE,93.0,50.0,51.0,80.0,3,64.67,C,Not Placed
+STU0900,Teja,Male,25,Vijayawada,ECE,75.0,39.0,83.0,63.0,6,65.67,C,Not Placed
+STU0281,Nikhil,Male,20,Hyderabad,CSE,42.0,63.0,51.0,72.0,7,52.0,C,Not Placed
+STU0884,Ramesh,Male,19,Guntur,Mechanical,75.0,86.0,83.0,,1,81.33,B,Not Placed
+STU0762,Nikhil,Male,19,Guntur,Mechanical,78.0,86.0,59.0,85.0,1,74.33,B,Placed
+STU0320,Vijay,Male,25,Visakhapatnam,Civil,85.0,48.0,35.0,92.0,6,56.0,C,Not Placed
+STU0550,Rahul,Female,23,Guntur,EEE,50.0,52.0,76.0,73.0,1,59.33,C,Placed
+STU0175,Suresh,Female,18,Vijayawada,Civil,61.0,76.0,96.0,93.0,7,77.67,B,Not Placed
+STU0372,Kiran,Male,19,Warangal,CSE,44.0,80.0,99.0,66.0,5,74.33,B,Not Placed
+STU0528,Vijay,Male,22,Visakhapatnam,EEE,36.0,49.0,57.0,97.0,3,47.33,D,Not Placed
+STU0211,Keerthi,Male,18,Warangal,Civil,87.0,36.0,37.0,,5,53.33,C,Not Placed
+STU0236,Meena,Female,20,Vijayawada,Mechanical,85.0,38.0,60.0,88.0,7,61.0,C,Not Placed
+STU0102,Sneha,Male,22,Vijayawada,CSE,38.0,51.0,36.0,82.0,4,41.67,D,Not Placed
+STU0987,Varun,Male,20,Warangal,EEE,47.0,50.0,98.0,74.0,1,65.0,C,Not Placed
+STU0903,Anu,Male,19,Guntur,EEE,73.0,56.0,60.0,82.0,7,63.0,C,Not Placed
+STU0948,Ramesh,Male,22,Warangal,Civil,98.0,90.0,48.0,63.0,4,78.67,B,Placed

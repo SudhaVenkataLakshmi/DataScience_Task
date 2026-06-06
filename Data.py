@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Import Pandas library
 import pandas as pd
 
@@ -114,7 +114,7 @@ plt.title("Distribution of Math Marks")
 # Show graph
 plt.show()
 # Create scatter plot
-=======
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -199,34 +199,32 @@ plt.title("Math Marks Distribution")
 plt.show()
 
 # Scatter plot
->>>>>>> 973d431e9d4de350edea962ededbe38134d0fdd7
 sns.scatterplot(
     x='Study_Hours',
     y='Average_Marks',
     data=df
 )
 
-<<<<<<< HEAD
+
 # Add title
 plt.title("Study Hours vs Average Marks")
 
 # Show graph
 plt.show()
 # Gender vs Math marks
-=======
+
 plt.title("Study Hours vs Average Marks")
 
 plt.show()
 
 # Gender analysis
->>>>>>> 973d431e9d4de350edea962ededbe38134d0fdd7
 sns.boxplot(
     x='Gender',
     y='Math',
     data=df
 )
 
-<<<<<<< HEAD
+
 # Add title
 plt.title("Gender vs Math Performance")
 
@@ -258,7 +256,7 @@ print("3. Outliers were detected and removed.")
 print("4. Students who study more tend to score higher.")
 print("5. Attendance positively affects performance.")
 print("6. Math and Science marks show positive correlation.")
-=======
+
 plt.title("Gender vs Math Marks")
 
 plt.show()
@@ -294,4 +292,3 @@ print("3. Outliers handled using IQR method.")
 print("4. Students with more study hours scored better.")
 print("5. Attendance affects academic performance.")
 print("6. Math and Science marks are positively correlated.")
->>>>>>> 973d431e9d4de350edea962ededbe38134d0fdd7
